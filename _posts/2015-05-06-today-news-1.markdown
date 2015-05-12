@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Today Nwes!"
 date:   2014-10-17 12:51:32
 categories: jekyll update
 ---
