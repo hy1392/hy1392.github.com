@@ -8,4 +8,4 @@ categories: jekyll update
 
 this file is new post from clone.
 
-![납 작았던 시절](http://dl.dropbox.com/s/nnoycfa14777vik/pb-20120605-110210.jpg)
+and this is the logo of KUT ![KUT logo](http://dl.dropbox.com/s/xd3w2wltu89zj2h/kut_logo.jpg)
