@@ -8,4 +8,4 @@ categories: jekyll update
 
 this file is new post from clone.
 
-naver logo ![img]("http://dl.dropboxusercontent.com/u/76445255/kut_logo.jpg?dl=1")
+naver logo ![img]("http://dl.dropboxusercontent.com/u/76445255/kut_logo.jpg")
