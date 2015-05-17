@@ -8,4 +8,4 @@ categories: jekyll update
 
 this file is new post from clone.
 
-
+![img](http://dl.dropbox.com/s/xd3w2wltu89zj2h/kut_logo.jpg?dl=0)
