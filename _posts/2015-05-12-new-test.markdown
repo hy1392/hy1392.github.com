@@ -8,4 +8,4 @@ categories: jekyll update
 
 this file is new post from clone.
 
-and this is the logo of KUT ![KUT logo](http://dl.dropbox.com/s/xd3w2wltu89zj2h/kut_logo.jpg)
+and this is the logo of KUT ![KUT logo](https://dl.dropbox.com/s/xd3w2wltu89zj2h/kut_logo.jpg)
