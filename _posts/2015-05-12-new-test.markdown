@@ -8,4 +8,4 @@ categories: jekyll update
 
 this file is new post from clone.
 
-naver logo <img src=http://www.dropbox.com/s/xd3w2wltu89zj2h/kut_logo.jpg?dl=1 />
+naver logo <img src=http://www.dropbox.com/s/xd3w2wltu89zj2h/kut_logo.jpg" />
