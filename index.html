@@ -17,7 +17,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>Frequently Asked</h4>
+            <h4>평가가 가장 좋은 강의</h4>
             <div class="hline"></div>
             {% for post in site.categories['question'] %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
@@ -25,7 +25,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>Latest Posts</h4>
+            <h4>평가가 가장 좋은 교수님</h4>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:5 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
