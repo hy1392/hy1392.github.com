@@ -14,7 +14,8 @@ thumb: thumb02.jpg
             <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전공필수&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★★★☆</small>
     </div>
     <div class="toggle-moreless-content">
-        <p>Hello World</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강의 시간 : 월(A204) 06A, 06B, 07A, 07B / 수 (A204) 03A, 03B, 04A ,04B</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;교과개요 : 공학설계프로세스를 학습하고, 설계도구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다. 또한 팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.</p>
     </div>
     <div class="toggle-moreless-footer">
     </div>
