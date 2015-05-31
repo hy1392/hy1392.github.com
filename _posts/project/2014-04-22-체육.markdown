@@ -8,7 +8,7 @@ categories:
 img: portfolio_03.jpg  
 thumb: thumb02.jpg  
 ---  
-<h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 담당교수명</h3>
+<h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 담당교수명</h3>
 
 <head>
 
@@ -112,7 +112,7 @@ thumb: thumb02.jpg
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스포츠댄스  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;윤지은</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스포츠댄스  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;윤지은</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -127,7 +127,7 @@ thumb: thumb02.jpg
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  보디빌딩 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  김태상</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  보디빌딩 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  김태상</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -142,7 +142,7 @@ thumb: thumb02.jpg
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  골프  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  모경원</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  골프  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  모경원</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
