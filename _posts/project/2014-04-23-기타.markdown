@@ -36,7 +36,7 @@ thumb: thumb02.jpg
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대중문화읽기 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  우현주</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대중문화읽기 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  우현주</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 20 기말 30 평소태도 10</li>
         <li>교재 정보 <br>
@@ -51,7 +51,7 @@ thumb: thumb02.jpg
     </ul>
     </div>
     <div>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대중문화읽기 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  김성일</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대중문화읽기 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김성일</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 10 기말 40</li>
         <li>교재 정보 <br>
@@ -78,7 +78,7 @@ thumb: thumb02.jpg
     </ul>
     <div>
     </div>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  철학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  손영창</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  철학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  손영창</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -128,7 +128,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.기초 일본어 실용회화 연습<br>
         &nbsp;&nbsp;3.기초 일본어 문자와 발음을 정리 및 연습<br></li>
     </ul>
-   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  중국어 I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김영란</h3>
+   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  중국어 I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김영란</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30  </li>
         <li>교재 정보 <br>
@@ -220,7 +220,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.영어로 의사소통할 수 있는 능력을 증진하고 연습하며 에세이를 작성한다.<br>
         &nbsp;&nbsp;3.사회과학 및 자연과학을 함양하는 영문자료 읽고 토론</li>
     </ul>
-                   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;  이주희</h3>
+                   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이주희</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -229,7 +229,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.영어 듣기 활동을 통해 학습한 표현들을 실제 상황에서 활용하는 연습을 통해 청해능력뿐만 아니라 의사소통능력을 발전<br>
         &nbsp;&nbsp;2.다양한 듣기 활동을 통해 생활영어에 필요한 유용한 표현들을 이해하여 영어 청해능력 향상</li>
     </ul>
-                       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;  성영복</h3>
+                       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  성영복</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -238,7 +238,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.영어 듣기 활동을 통해 학습한 표현들을 실제 상황에서 활용하는 연습을 통해 청해능력뿐만 아니라 의사소통능력을 발전<br>
         &nbsp;&nbsp;2.다양한 듣기 활동을 통해 생활영어에 필요한 유용한 표현들을 이해하여 영어 청해능력 향상</li>
     </ul>
-                       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;  이종석</h3>
+                       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이종석</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 15 중간 30 기말 30 퀴즈 15</li>
         <li>교재 정보 <br>
@@ -247,7 +247,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.영어 듣기 활동을 통해 학습한 표현들을 실제 상황에서 활용하는 연습을 통해 청해능력뿐만 아니라 의사소통능력을 발전<br>
         &nbsp;&nbsp;2.다양한 듣기 활동을 통해 생활영어에 필요한 유용한 표현들을 이해하여 영어 청해능력 향상</li>
     </ul>
-                       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;  웨스너</h3>
+                       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  영어청해1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  웨스너</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30 </li>
         <li>교재 정보 <br>
