@@ -8,20 +8,49 @@ categories:
 img: portfolio_04.jpg  
 thumb: thumb02.jpgo  
 ---  
-<h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  담당교수명</h3>
+ <font size="5" color="#FD8704">강의 상세 내용을 확인하시려면 강의명을 클릭해 주세요.</font>
+<h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  담당교수명</h3>
 
 
 <head>
 
  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
  <script type="text/javascript"> </script>
+ <script type="text/javascript">(function(d, t, e, m){
+    
+    // Async Rating-Widget initialization.
+    window.RW_Async_Init = function(){
+                
+        RW.init({
+            huid: "239050",
+            uid: "11e884749b7c92211921645b4a028625",
+            source: "website",
+            options: {
+                "size": "medium",
+                "style": "oxygen"
+            } 
+        });
+        RW.render();
+    };
+        // Append Rating-Widget JavaScript library.
+    var rw, s = d.getElementsByTagName(e)[0], id = "rw-js",
+        l = d.location, ck = "Y" + t.getFullYear() + 
+        "M" + t.getMonth() + "D" + t.getDate(), p = l.protocol,
+        f = ((l.search.indexOf("DBG=") > -1) ? "" : ".min"),
+        a = ("https:" == p ? "secure." + m + "js/" : "js." + m);
+    if (d.getElementById(id)) return;              
+    rw = d.createElement(e);
+    rw.id = id; rw.async = true; rw.type = "text/javascript";
+    rw.src = p + "//" + a + "external" + f + ".js?ck=" + ck;
+    s.parentNode.insertBefore(rw, s);
+    }(document, new Date(), "script", "rating-widget.com/"));</script>
 
 </head>
 
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최현숙</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최현숙 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -35,7 +64,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최규영</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최규영 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -49,7 +78,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김우철</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김우철 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -63,7 +92,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  오명진</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  오명진 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -77,7 +106,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  최소형</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최소형 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 15 기말 20 조별 20 중간보고서 15 기말보고서 20</li>
         <li>교재 정보 <br>
@@ -90,7 +119,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  문승규</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  문승규 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 20 기말 30 활동지 10 진로계발계획서 10</li>
         <li>교재 정보 <br>
@@ -102,7 +131,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  안후남</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  안후남 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 15 중간 10 기말 20 조별 15 중간보고서 15 기말보고서 15</li>
         <li>교재 정보 <br>
@@ -115,7 +144,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  강혜영</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  강혜영 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 15 중간 10 기말 20 조별 15 중간보고서 15 기말보고서 15</li>
         <li>교재 정보 <br>
@@ -128,7 +157,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  이지은</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이지은 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 35 기말 20 발표 20 주차과제 15</li>
         <li>교재 정보 <br>
@@ -140,7 +169,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  한상진</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한상진 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -153,7 +182,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  송윤심</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  송윤심 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 35 중간 15 기말 40</li>
         <li>교재 정보 <br>
@@ -166,7 +195,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 기말 50</li>
         <li>교재 정보 <br>
@@ -177,7 +206,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 40 기말 40</li>
         <li>교재 정보 <br>
@@ -191,7 +220,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;  배광민</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  배광민 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 30 기말 40</li>
         <li>교재 정보 <br>
@@ -203,7 +232,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 30 기말 40</li>
         <li>교재 정보 <br>
@@ -215,7 +244,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;  윤관식</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  윤관식 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석10 과제 10 중간 30 기말 50</li>
         <li>교재 정보 <br>
@@ -228,7 +257,7 @@ thumb: thumb02.jpgo
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 현대사회와직업윤리 &nbsp;&nbsp;&nbsp;&nbsp;  장문강</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 현대사회와직업윤리 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  장문강 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 중간 40 기말 40</li>
         <li>교재 정보 <br>
@@ -242,7 +271,7 @@ thumb: thumb02.jpgo
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 자기주도교과학습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 자기주도교과학습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 기말 50</li>
         <li>교재 정보 <br>
@@ -260,7 +289,7 @@ thumb: thumb02.jpgo
 
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 장애인직업재활론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김종옥</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 장애인직업재활론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김종옥 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
