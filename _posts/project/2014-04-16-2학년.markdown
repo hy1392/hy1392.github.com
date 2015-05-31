@@ -30,7 +30,7 @@ thumb: thumb02.jpg
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  이강환</h3>
+    <h3 class = "trigger">3&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  이강환</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 10 중간 30 기말 30</li>
         <li>교재 정보 <br>
