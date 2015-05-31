@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time to change your apps"
+title: "C프로그래밍 - 최영규"
 date: 2014-04-25 16:54:46
 author: Admin
 categories: 
@@ -11,21 +11,14 @@ img: post01.jpg
 thumb: thumb01.jpg
 ---
 
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+이론보다는 실습위주로 굴리셔서 학기가 끝나면 이해하기 싫어도 이해할 수 있을 정도로 사용법을 익히게 됩니다.
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+이 수업 방식이 잘 맞지 않으시는 분들도 있겠지만 한번 강의를 들어보시면 왜 이 강의를 추천하는지 알게 되실 것 입니다.
 
-Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
+시험은 실습문제만 나와서 고리타분하게 책을 외울 필요도 없을 뿐 더러 다른 시험 방식보다 더 편했습니다.
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+과제는 매주 나오는 편이고 조금은 난이도가 있는 문제가 나와서 공부하는데 큰 도움이 될 겁니다.
 
-####Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+꼭 한번 들어 보셨으면 하는 강의중 하나 입니다.
 
-
->Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-
-[hampden]: https://github.com/jekyll/jekyll
+<p><br/><a href="http://hy1392.github.io/question/%EC%B5%9C%EC%98%81%EA%B7%9C%20%EA%B5%90%EC%88%98%EB%8B%98/" class="btn btn-theme">최영규 교수님 정보</a></p>
