@@ -29,7 +29,27 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- HotShot<br>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.공학설계프로세스를 학습하고, 설계돌구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다.  <br></li>
+        &nbsp;&nbsp;1.공학설계프로세스를 학습하고, 설계돌구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다.  </li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  윤한경</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 40 중간 20 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- HotShot<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.공학설계프로세스를 학습하고, 설계돌구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다.  </li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  권오영</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 40 중간 20 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- HotShot<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.공학설계프로세스를 학습하고, 설계돌구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다.  </li>
     </ul>
 </div>
 <div>
