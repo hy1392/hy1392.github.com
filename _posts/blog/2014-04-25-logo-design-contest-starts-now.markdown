@@ -7,6 +7,8 @@ categories:
 - blog
 - Tips&Tricks
 - Code-Snippets
+img: post02.jpg
+thumb: thumb02.jpg
 ---
   다른 수업에 비하여 진도는 느린 편이었지만 학생을 가르치고자 하는 열정이 가득했던 수업이었습니다.
 
