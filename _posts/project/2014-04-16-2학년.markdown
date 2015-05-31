@@ -47,6 +47,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 디지털 논리회로(이론, 실습, 시뮬레이션, 개정판, 한빛미디어)<br>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br></li>
+</div>
+<div>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  최영규</h3>
     <ul class = "toggle">
