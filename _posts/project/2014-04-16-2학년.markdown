@@ -49,6 +49,8 @@ $("#open_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬
 
 <div id="div3" class="more">Content</div>
 <a class="plus">Show More</a>
+
+
 (function($) { 
  $(document).ready(function(){
     $('div.more').hide();
