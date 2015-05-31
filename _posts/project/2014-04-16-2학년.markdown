@@ -10,7 +10,7 @@ thumb: thumb02.jpg
 ---  
 <div class="toggle-moreless">
     <div class="toggle-moreless-header">
-        <h3>3    컴퓨터시스템기초설계    강승우    전공필수  </h3>
+        <h3>3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우   &nbsp;&nbsp; 전공필수  </h3>
             <small>★★★★☆</small>
     </div>
     <div class="toggle-moreless-content">
