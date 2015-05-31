@@ -23,42 +23,94 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우</h3> 
+    <h3 class = "trigger">3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우,권오영,윤한경</h3> 
     <ul class = "toggle">
         <li>강의 시간 : 월(A204) 06A, 06B, 07A, 07B / 수 (A204) 03A, 03B, 04A ,04B</li>
         <li>교과개요 : 공학설계프로세스를 학습하고, 설계도구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다. 또한 팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.</li>
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">Heading 2</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  이강환</h3>
     <ul class = "toggle">
-        <li>Line One</li>
-        <li>Line Two</li>
-        <li>Line Three</li>
+        <li>학점 정보 : 출석 20 과제 10 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 논리설계초(Roth Kinney)한티미디어(번역판)<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br>
     </ul>
-     <h3 class = "trigger">Heading 2</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  주영복</h3>
     <ul class = "toggle">
-        <li>Line One</li>
-        <li>Line Two</li>
-        <li>Line Three</li>
+        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 디지털 논리회로(이론, 실습, 시뮬레이션, 개정판, 한빛미디어)<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br>
     </ul>
-     <h3 class = "trigger">Heading 2</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  최영규</h3>
     <ul class = "toggle">
-        <li>Line One</li>
-        <li>Line Two</li>
-        <li>Line Three</li>
+        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- Power C++(천인국 저, 인피니티 북스)<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.프로그래밍 작성 툴 사용 능력을 강화할 수 있다.  <br>
+        &nbsp;&nbsp;2.객체지향프로그래밍 개념을 이해 할 수 있다. <br>
+        &nbsp;&nbsp;3. C언어 활용능력을 강화할 수 있다.<br>
+        &nbsp;&nbsp;4.C++ 문법을 이해하고 활용능력을 배양할 수 있다.</li>
     </ul>
-     <h3 class = "trigger">Heading 2</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  이재협</h3>
     <ul class = "toggle">
-        <li>Line One</li>
-        <li>Line Two</li>
-        <li>Line Three</li>
+        <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- Power C++(천인국 저, 인피니티 북스)<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.프로그래밍 작성 툴 사용 능력을 강화할 수 있다.  <br>
+        &nbsp;&nbsp;2.객체지향프로그래밍 개념을 이해 할 수 있다. <br>
+        &nbsp;&nbsp;3. C언어 활용능력을 강화할 수 있다.<br>
+        &nbsp;&nbsp;4.C++ 문법을 이해하고 활용능력을 배양할 수 있다.</li>
     </ul>
-     <h3 class = "trigger">Heading 2</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  조재수</h3>
     <ul class = "toggle">
-        <li>Line One</li>
-        <li>Line Two</li>
-        <li>Line Three</li>
+        <li>학점 정보 : 출석 10 과제 20 중간 25 기말 25 팀프로젝트 25</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 이기자 C++프로그래밍(인피니티북스, 조재수 저)<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.프로젝트 수행 및 발표를 통한 설계 및 의사전달 능력을 배양할 수 있다.  <br>
+        &nbsp;&nbsp;2.주어진 문제를 분석하여 C++ 언어로 구현함으로써 자신의 전공에 활용 능력을 배양할 수 있다. <br>
+        &nbsp;&nbsp;3.다양한 개발 도구의 사용법을 숙지할 수 있다.<br>
+        &nbsp;&nbsp;4.객체지향 원리를 이해하여 효율적인 클래스 설계 능력을 배양할 수 있다.</li>
+    </ul>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  마이크로프로세서 및 실습  &nbsp;&nbsp;  김상연</h3>
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 10 중간 40 기말 40</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- ARM Cortex<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.팀 프로젝트를 진행하여 응용 시스템 설계능력을 향상시킨다.  <br>
+        &nbsp;&nbsp;2.명령어 세트, 메모리맵을 학습하고, 응용프로그램을 작성해본다. <br>
+        &nbsp;&nbsp;3.마이크로 프로세서 동작원리를 이해한다.<br>
+        &nbsp;&nbsp;4.각종 입출력장치를 제어하는 방법을 습득한다.</li>
+    </ul>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자바 프로그래밍  &nbsp;&nbsp;  무하마드</h3>
+    <ul class = "toggle">
+        <li>학점 정보 : 과제 20 중간 25 기말 25 프로젝트 20 기타10</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- Java How to Program by Paul Deitel and Harvey Deitel<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.learn object oriented design (OOD)  <br>
+        &nbsp;&nbsp;2.Learn fundamentals of JAVA programming <br>
+        &nbsp;&nbsp;3.Develop software using JAVA to solve real world problems<br>
+    </ul>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자료 구조 및 실습  &nbsp;&nbsp;  최영규</h3>
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- Data Structures in C - C언어로 쉽게 풀어쓴 자료구조 (천인국, 생능출판사)<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.프로그래밍 환경 활용 능력을 배양할 수 있다.  <br>
+        &nbsp;&nbsp;2.자료구조의 응용능력을 배양할 수 있다.  <br>
+        &nbsp;&nbsp;3.자료 추상화의 개념을 이해할 수 있다<br>
+        &nbsp;&nbsp;4.기본 자료구조를 이해할 수 있다.<br>
+        &nbsp;&nbsp;5.C, C++ 프로그래밍 활용 능력을 강화할 수 있다.<br>
     </ul>
 </div>
 
