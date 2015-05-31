@@ -8,32 +8,68 @@ categories:
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 ---
-<body>
-<DIV id="In_1" style="DISPLAY: block"><SPAN style="FONT-SIZE: 14pt; CURSOR: hand; COLOR: #0482d6" onclick="In_1.style.display='none';Out_1.style.display='block'"><U>&gt;컴퓨터시스템기초설계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3분반&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강승우&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★★★☆</U></SPAN></DIV>
-<DIV id="Out_1" style="DISPLAY: none"><SPAN style="FONT-SIZE: 14pt; CURSOR: hand; COLOR: #0482d6" onclick="In_1.style.display='block';Out_1.style.display='none'"><U>&gt;컴퓨터시스템기초설계&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3분반&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;강승우&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★★★☆</U></SPAN> 
-<P><SPAN style="FONT-SIZE: 9pt"><div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'hy1392';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript><script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'hy1392';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-</script></SPAN></P></DIV>
+ <h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  담당교수명</h3>
 
+
+<head>
+
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
+ <script type="text/javascript"> </script>
+
+</head>
+
+
+
+<body>
+
+<div>
+    <h3 class = "trigger">3  &nbsp;&nbsp;  컴퓨터공학입문  &nbsp;&nbsp;  정구철</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 : 컴퓨터 개론의 이해(정구철외 1인, 홍릉과학출판사, 2011)/ 컴퓨터 와이드 서핑(정구철외 1인, 홍릉과학 출판사, 2011)</li>
+        <li>교과개요 : 컴퓨터의 발달과정과 활용분야를 설명할 수 있다. / 컴퓨터의 S/w와 H/W의 구성을 설명할 수 있다. / 컴퓨터 사용에 필요한 윈도우 XP의 기능을 수행할 수 있다. / 응용소프트웨어의 실습을 통해 실무 능력을 향상시킨다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">Heading 2</h3>
+    <ul class = "toggle">
+        <li>Line One</li>
+        <li>Line Two</li>
+        <li>Line Three</li>
+    </ul>
+     <h3 class = "trigger">Heading 2</h3>
+    <ul class = "toggle">
+        <li>Line One</li>
+        <li>Line Two</li>
+        <li>Line Three</li>
+    </ul>
+     <h3 class = "trigger">Heading 2</h3>
+    <ul class = "toggle">
+        <li>Line One</li>
+        <li>Line Two</li>
+        <li>Line Three</li>
+    </ul>
+     <h3 class = "trigger">Heading 2</h3>
+    <ul class = "toggle">
+        <li>Line One</li>
+        <li>Line Two</li>
+        <li>Line Three</li>
+    </ul>
+     <h3 class = "trigger">Heading 2</h3>
+    <ul class = "toggle">
+        <li>Line One</li>
+        <li>Line Two</li>
+        <li>Line Three</li>
+    </ul>
+</div>
+
+
+<script>
+
+$(".toggle").slideUp();
+$(".trigger").click(function () {
+    $(this).next(".toggle").slideToggle("slow");
+});
+
+</script>
 </body>
