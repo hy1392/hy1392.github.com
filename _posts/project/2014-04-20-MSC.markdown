@@ -23,31 +23,34 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터공학입문  &nbsp;&nbsp;&nbsp;&nbsp;  정구철</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;  김용일</h3> 
     <ul class = "toggle">
-        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 개론의 이해(정구철외 1인, 홍릉과학출판사, 2011)<br>
-        &nbsp;&nbsp;- 컴퓨터 와이드 서핑(정구철외 1인, 홍릉과학 출판사, 2011)</li>
+        &nbsp;&nbsp;- 미분적분학6판( 경문사, 수학교재편찬위원회 옮김)<br>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.컴퓨터의 발달과정과 활용분야를 설명할 수 있다.  <br>
-        &nbsp;&nbsp;2.컴퓨터의 S/w와 H/W의 구성을 설명할 수 있다. <br>
-        &nbsp;&nbsp;3.컴퓨터 사용에 필요한 윈도우 XP의 기능을 수행할 수 있다.<br>
-        &nbsp;&nbsp;4.응용소프트웨어의 실습을 통해 실무 능력을 향상시킨다.</li>
+        &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
+        &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터공학입문  &nbsp;&nbsp;&nbsp;&nbsp;  윤한경</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;  박원우</h3> 
     <ul class = "toggle">
-        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 개론의 이해(정구철외 1인, 홍릉과학출판사, 2011)<br>
-        &nbsp;&nbsp;- 컴퓨터 와이드 서핑(정구철외 1인, 홍릉과학 출판사, 2011)</li>
+        &nbsp;&nbsp;- 미분적분학6판( 경문사, 수학교재편찬위원회 옮김)<br>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.컴퓨터의 발달과정과 활용분야를 설명할 수 있다.  <br>
-        &nbsp;&nbsp;2.컴퓨터의 S/w와 H/W의 구성을 설명할 수 있다. <br>
-        &nbsp;&nbsp;3.컴퓨터 사용에 필요한 윈도우 XP의 기능을 수행할 수 있다.<br>
-        &nbsp;&nbsp;4.응용소프트웨어의 실습을 통해 실무 능력을 향상시킨다.</li>
+        &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
+        &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
+    </ul>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;  허주현</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 미분적분학6판( 경문사, 수학교재편찬위원회 옮김)<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
+        &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
     </ul>
      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터공학입문  &nbsp;&nbsp;&nbsp;&nbsp;  문일영</h3>
     <ul class = "toggle">
