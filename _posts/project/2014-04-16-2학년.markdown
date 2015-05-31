@@ -23,7 +23,7 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우,권오영,윤한경</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 20 기말 30</li>
         <li>교재 정보 <br>
