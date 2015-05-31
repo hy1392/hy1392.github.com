@@ -23,20 +23,25 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우,권오영,윤한경</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우,권오영,윤한경</h3> 
     <ul class = "toggle">
-        <li>강의 시간 : 월(A204) 06A, 06B, 07A, 07B / 수 (A204) 03A, 03B, 04A ,04B</li>
-        <li>교과개요 : 공학설계프로세스를 학습하고, 설계도구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다. 또한 팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.</li>
+        <li>학점 정보 : 출석 10 과제 40 중간 20 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- HotShot<br>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.공학설계프로세스를 학습하고, 설계돌구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다.  <br></li>
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">3&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  이강환</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  이강환</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 10 중간 30 기말 30</li>
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 논리설계초(Roth Kinney)한티미디어(번역판)<br>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br></li>
+        &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br>
+        &nbsp;&nbsp;2.팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.  <br>
+        &nbsp;&nbsp;3.오픈소스 개발을 위하여 기본적인 버전관리도구의 사용법을 익히고 오픈소스 도구들을 이용하여 블로거 페이지를 제작한다.  <br></lr>
 </div>
 <div>
     </ul>
