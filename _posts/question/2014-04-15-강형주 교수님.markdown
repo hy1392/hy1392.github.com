@@ -6,6 +6,7 @@ author: Marcel Newman
 categories:
 - question
 ---
+<img src="https://lh3.googleusercontent.com/MSScyxV4Zwk_lXeKH8w6KaMIhBtq26cDXrahOR7LtQ=w200-h200-p-no">
 직위 : 조교수
 
 E - Mail : hjkang@koreatech.ac.kr
