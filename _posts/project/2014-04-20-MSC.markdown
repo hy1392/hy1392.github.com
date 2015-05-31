@@ -52,7 +52,7 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용일 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용일 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
@@ -63,7 +63,7 @@ thumb: thumb02.jpg
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원우 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원우 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
@@ -74,7 +74,7 @@ thumb: thumb02.jpg
     </ul>
 </div>
 <div>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  허주현 <div class="rw-ui-container"></div></h3> 
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  허주현 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
@@ -83,7 +83,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
         &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한효근 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한효근 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
@@ -92,7 +92,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
         &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최용빈 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최용빈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
@@ -101,7 +101,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
         &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  심재동 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  심재동 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
@@ -110,7 +110,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
         &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
     </ul>
-<h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  정태수 <div class="rw-ui-container"></div></h3> 
+<h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  정태수 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -118,7 +118,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  남윤성 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  남윤성 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -126,7 +126,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  김원년 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  김원년 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -134,7 +134,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  김광철 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  김광철 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -142,7 +142,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  이미리 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  이미리 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -150,7 +150,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  허수헌 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  허수헌 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -158,7 +158,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  이성직 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  이성직 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -166,7 +166,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  신지식 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  신지식 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
@@ -174,7 +174,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 퀴즈 20</li>
         <li>교재 정보 <br>
@@ -182,7 +182,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.함수와 방정식, 다항함수 유리함수 지수함수, 로그함수 , 삼각함수의 개념과 이론을 익힌다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  홍성희 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  홍성희 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 퀴즈 20</li>
         <li>교재 정보 <br>
@@ -190,7 +190,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.함수와 방정식, 다항함수 유리함수 지수함수, 로그함수 , 삼각함수의 개념과 이론을 익힌다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한효근 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한효근 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 퀴즈 20</li>
         <li>교재 정보 <br>
@@ -198,7 +198,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.함수와 방정식, 다항함수 유리함수 지수함수, 로그함수 , 삼각함수의 개념과 이론을 익힌다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  노귀연 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  노귀연 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 퀴즈 20</li>
         <li>교재 정보 <br>
@@ -206,7 +206,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.함수와 방정식, 다항함수 유리함수 지수함수, 로그함수 , 삼각함수의 개념과 이론을 익힌다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  우현균 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  우현균 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 퀴즈 20</li>
         <li>교재 정보 <br>
@@ -214,7 +214,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.함수와 방정식, 다항함수 유리함수 지수함수, 로그함수 , 삼각함수의 개념과 이론을 익힌다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    대학 수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    대학 수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -223,7 +223,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.함수, 행렬, 미분, 적분 및 다변수 함수등을 다룬다.   <br>
         &nbsp;&nbsp;2.응용문제 위주로 학습하며 이를 통한 수학의 필요성과 중요성을 부각시킨다. <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    대학 수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용일 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    대학 수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용일 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -232,7 +232,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.함수, 행렬, 미분, 적분 및 다변수 함수등을 다룬다.   <br>
         &nbsp;&nbsp;2.응용문제 위주로 학습하며 이를 통한 수학의 필요성과 중요성을 부각시킨다. <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  심재동 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  심재동 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 과제 40 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -241,7 +241,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.연립방정식의 해법과 행렬의 연산, 행렬식, 벡터공간 등의 이론을 습득한다.   <br>
         &nbsp;&nbsp;2.연립방정식의 해법과 벡터공간에 대한 내용을 공학적 문제에 응용한다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 5 중간 30 기말 30 퀴즈 30</li>
         <li>교재 정보 <br>
@@ -250,7 +250,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.연립방정식의 해법과 행렬의 연산, 행렬식, 벡터공간 등의 이론을 습득한다.   <br>
         &nbsp;&nbsp;2.연립방정식의 해법과 벡터공간에 대한 내용을 공학적 문제에 응용한다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  홍성희 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  홍성희 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
         <li>교재 정보 <br>
@@ -259,7 +259,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.연립방정식의 해법과 행렬의 연산, 행렬식, 벡터공간 등의 이론을 습득한다.   <br>
         &nbsp;&nbsp;2.연립방정식의 해법과 벡터공간에 대한 내용을 공학적 문제에 응용한다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최용빈 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최용빈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
         <li>교재 정보 <br>
@@ -268,7 +268,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.연립방정식의 해법과 행렬의 연산, 행렬식, 벡터공간 등의 이론을 습득한다.   <br>
         &nbsp;&nbsp;2.연립방정식의 해법과 벡터공간에 대한 내용을 공학적 문제에 응용한다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원우 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원우 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 과제 40 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -277,7 +277,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.연립방정식의 해법과 행렬의 연산, 행렬식, 벡터공간 등의 이론을 습득한다.   <br>
         &nbsp;&nbsp;2.연립방정식의 해법과 벡터공간에 대한 내용을 공학적 문제에 응용한다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  정동택 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  선형대수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  정동택 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 40 기말 40 </li>
         <li>교재 정보 <br>
@@ -286,7 +286,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.연립방정식의 해법과 행렬의 연산, 행렬식, 벡터공간 등의 이론을 습득한다.   <br>
         &nbsp;&nbsp;2.연립방정식의 해법과 벡터공간에 대한 내용을 공학적 문제에 응용한다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이산수학 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  우현균 <div class="rw-ui-container"></div></h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이산수학 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  우현균 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 20 기말 30 </li>
         <li>교재 정보 <br>
@@ -297,7 +297,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.공동으로 같이 일하는 법을 배운다.   <br>
         &nbsp;&nbsp;4.계산(computation)과정을 모델링하고 분석한다.  <br></li>
     </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이산수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 주영복 <div class="rw-ui-container"></div></h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이산수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 주영복 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -306,7 +306,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.이산수학의 기본 개념인 선택과 배열, 이항계수와 다항계수, 비둘기집의 원리, 집합의 분할, 그래프, 평면그래프, 수형도, 인접행렬, 채색수, 채색다항식 등을 익힌다.  <br>
         &nbsp;&nbsp;2.점화식과 같이 중등 교육과정에 있는 문제도 다루어, 향후 현장에서의 수업에 도움 되게 한다.<br></li>
     </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  하준홍 <div class="rw-ui-container"></div></h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  하준홍 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -318,7 +318,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.물체의 궤도와 미분방정식의 해를 서로 연계하여 이해할 수 있다. <br>
          &nbsp;&nbsp;5.Hands on 으로 진동 실험장치를 만들어 모델의 해와 비교하여 미분방정식이 갖는 의미를 이해할 수 있다. </li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한효근 <div class="rw-ui-container"></div></h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한효근 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 기말 30 퀴즈 40</li>
         <li>교재 정보 <br>
@@ -330,7 +330,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.미분방정식의 일반해를 검증하고 그 일반해 및 초기치 문제의 해의 그래프를 그릴 수 있다.  <br>
         &nbsp;&nbsp;5.매번 수업에 출석하여 수업내용을 이해하고 과제를 충실히 수행할 수 있다.</li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최용빈 <div class="rw-ui-container"></div></h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최용빈 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 기말 30 퀴즈 40</li>
         <li>교재 정보 <br>
@@ -342,7 +342,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.미분방정식의 일반해를 검증하고 그 일반해 및 초기치 문제의 해의 그래프를 그릴 수 있다.  <br>
         &nbsp;&nbsp;5.매번 수업에 출석하여 수업내용을 이해하고 과제를 충실히 수행할 수 있다.</li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  허주현 <div class="rw-ui-container"></div></h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  허주현 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 기말 30 퀴즈 40</li>
         <li>교재 정보 <br>
@@ -354,7 +354,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.미분방정식의 일반해를 검증하고 그 일반해 및 초기치 문제의 해의 그래프를 그릴 수 있다.  <br>
         &nbsp;&nbsp;5.매번 수업에 출석하여 수업내용을 이해하고 과제를 충실히 수행할 수 있다.</li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 <div class="rw-ui-container"></div></h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 기말 30 퀴즈 40</li>
         <li>교재 정보 <br>
@@ -366,7 +366,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.미분방정식의 일반해를 검증하고 그 일반해 및 초기치 문제의 해의 그래프를 그릴 수 있다.  <br>
         &nbsp;&nbsp;5.매번 수업에 출석하여 수업내용을 이해하고 과제를 충실히 수행할 수 있다.</li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원우 <div class="rw-ui-container"></div></h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원우 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 기말 30 퀴즈 30</li>
         <li>교재 정보 <br>
@@ -378,7 +378,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.미분방정식의 일반해를 검증하고 그 일반해 및 초기치 문제의 해의 그래프를 그릴 수 있다.  <br>
         &nbsp;&nbsp;5.매번 수업에 출석하여 수업내용을 이해하고 과제를 충실히 수행할 수 있다.</li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용일 <div class="rw-ui-container"></div></h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용일 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 20 기말 20 퀴즈 30</li>
         <li>교재 정보 <br>
@@ -390,7 +390,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.미분방정식의 일반해를 검증하고 그 일반해 및 초기치 문제의 해의 그래프를 그릴 수 있다.  <br>
         &nbsp;&nbsp;5.매번 수업에 출석하여 수업내용을 이해하고 과제를 충실히 수행할 수 있다.</li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  구자경 <div class="rw-ui-container"></div></h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미분방정식  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  구자경 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
@@ -402,7 +402,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.미분방정식의 일반해를 검증하고 그 일반해 및 초기치 문제의 해의 그래프를 그릴 수 있다.  <br>
         &nbsp;&nbsp;5.매번 수업에 출석하여 수업내용을 이해하고 과제를 충실히 수행할 수 있다.</li>
     </ul>
-                 <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  응용확률및통계 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  노귀연 <div class="rw-ui-container"></div></h3>
+                 <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  응용확률및통계 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  노귀연 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
         <li>교재 정보 <br>
