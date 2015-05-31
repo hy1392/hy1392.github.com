@@ -6,9 +6,11 @@ description: "Write an awesome description for your new site here. You can edit 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://hy1392.github.com"
+<html>
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="http://http://hy1392.github.io/mark.ico" />
 </head>
+</html>
 
 # Build settings
 markdown: kramdown
