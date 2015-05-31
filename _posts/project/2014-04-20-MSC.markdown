@@ -185,7 +185,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.함수와 방정식, 다항함수 유리함수 지수함수, 로그함수 , 삼각함수의 개념과 이론을 익힌다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학 수학  &nbsp;&nbsp;  황상민</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학 수학  &nbsp;&nbsp;  황상민</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -194,7 +194,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.함수, 행렬, 미분, 적분 및 다변수 함수등을 다룬다.   <br>
         &nbsp;&nbsp;2.응용문제 위주로 학습하며 이를 통한 수학의 필요성과 중요성을 부각시킨다. <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학 수학  &nbsp;&nbsp;  김용일</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학 수학  &nbsp;&nbsp;  김용일</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
