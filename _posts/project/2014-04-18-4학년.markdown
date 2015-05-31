@@ -24,186 +24,117 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제  &nbsp;&nbsp;&nbsp;&nbsp;  권오영</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  네트워크프로그래밍  &nbsp;&nbsp;&nbsp;&nbsp;  서희석</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 운영체제론 (엄영익, 정태명 공저, 생능출판사, 2002)<br></li>
+        &nbsp;&nbsp;- 컴퓨터 네트워크 프로그래밍, 홍릉과학출판사<br></li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.운영체제의 내부 구조 분석<br>
-        &nbsp;&nbsp;2.운영체제의 구조적인 설계 능력을 함양<br>
-        &nbsp;&nbsp;3.운영체제에서 다루는 중요 이슈를 통한 문제 해결 능력 배양<br>
-        &nbsp;&nbsp;4.수학적 지식을 통한 원리 이해</li>
+        &nbsp;&nbsp;1.TCP/IP 프로그래밍 관련 주제에 대한 정리 및 설명능력 향상<br>
+        &nbsp;&nbsp;2.TCP/IP 클라이언트 - 서버 프로그램 작성 능력 향상<br>
+        &nbsp;&nbsp;3.TCP/IP 클라이언트 - 서버 프로그램 설계 능력 향상<br>
+        &nbsp;&nbsp;4.TCP/IP 네트워크의 동작 원리에 대한 구체적인 이해</li>
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제  &nbsp;&nbsp;&nbsp;&nbsp;  서희석</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  네트워크프로그래밍  &nbsp;&nbsp;&nbsp;&nbsp;  김용환</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 운영체제론 (엄영익, 정태명 공저, 생능출판사, 2002)<br></li>
+        &nbsp;&nbsp;- TCP/Ip 소켓 프로그래밍, 프리랙<br></li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.운영체제의 내부 구조 분석<br>
-        &nbsp;&nbsp;2.운영체제의 구조적인 설계 능력을 함양<br>
-        &nbsp;&nbsp;3.운영체제에서 다루는 중요 이슈를 통한 문제 해결 능력 배양<br>
-        &nbsp;&nbsp;4.수학적 지식을 통한 원리 이해</li>
+        &nbsp;&nbsp;1.TCP/IP 프로그래밍 관련 주제에 대한 정리 및 설명능력 향상<br>
+        &nbsp;&nbsp;2.TCP/IP 클라이언트 - 서버 프로그램 작성 능력 향상<br>
+        &nbsp;&nbsp;3.TCP/IP 클라이언트 - 서버 프로그램 설계 능력 향상<br>
+        &nbsp;&nbsp;4.TCP/IP 네트워크의 동작 원리에 대한 구체적인 이해</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제  &nbsp;&nbsp;&nbsp;&nbsp;  강승우</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  가상현실및실습  &nbsp;&nbsp;&nbsp;&nbsp;  김윤상</h3>
     <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 35 중간 25 기말 30</li>
+        <li>학점 정보 : 출석 20 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- Operating Systems In Depth, John Wiley<br></li>
+        &nbsp;&nbsp;- 참고자료 : 가상현실과 VRML (정일, 사이맥스 외, 번역본)</li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.운영체제의 내부 구조 분석<br>
-        &nbsp;&nbsp;2.운영체제의 구조적인 설계 능력을 함양<br>
-        &nbsp;&nbsp;3.운영체제에서 다루는 중요 이슈를 통한 문제 해결 능력 배양<br>
-        &nbsp;&nbsp;4.수학적 지식을 통한 원리 이해</li>
+        &nbsp;&nbsp;1.팀 프로젝트 역할 분담 및 발표 능력 배양<br>
+        &nbsp;&nbsp;2.가상현실의 기초 이론 이해와 가상현실 설계 능력 배양<br>
+        &nbsp;&nbsp;3.가상현실 개발 도구 사용법 습득, 가상현실 기획 및 제작 기법 능력 배양<br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조  &nbsp;&nbsp;&nbsp;&nbsp;  장경식</h3>
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 20 중간 30 기말 30 </li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- Couputer Organization & Architecture, W Stallings, Pearson / 컴퓨터 구조 및 설계, 박명순외 4인 공역, 사이텍미디어<br></li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.제어 유니트 역할과 구현방법에 대한 이론을 학습한다. <br>
-        &nbsp;&nbsp;2.입출력 장치와 인터럽트 , DNA 동작원리를 이해한다. <br>
-        &nbsp;&nbsp;3.명령어 세트, 정수연산 유니트, 부동소숫점 연산 유니트의 동작원리를 이해한다. <br>
-        &nbsp;&nbsp;4.메모리 관리 기법과 기억 장치들에 대한 구조를 이해한다.  <br>
-        &nbsp;&nbsp;5.CPU 기본구조와 구성요소들을 이해한다.<br></li>
-    </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조  &nbsp;&nbsp;&nbsp;&nbsp;  김윤상</h3>
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30 </li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 시스템 구조론(William Stallings, 진샘미디어)<br></li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.제어 유니트 역할과 구현방법에 대한 이론을 학습한다. <br>
-        &nbsp;&nbsp;2.입출력 장치와 인터럽트 , DNA 동작원리를 이해한다. <br>
-        &nbsp;&nbsp;3.명령어 세트, 정수연산 유니트, 부동소숫점 연산 유니트의 동작원리를 이해한다. <br>
-        &nbsp;&nbsp;4.메모리 관리 기법과 기억 장치들에 대한 구조를 이해한다.  <br>
-        &nbsp;&nbsp;5.CPU 기본구조와 구성요소들을 이해한다.<br></li>
-    </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조 &nbsp;&nbsp;&nbsp;&nbsp;  박원형</h3>
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 10 중간 40 기말 40  </li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터구조론(김종현 저), 생능출판사<br></li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.제어 유니트 역할과 구현방법에 대한 이론을 학습한다. <br>
-        &nbsp;&nbsp;2.입출력 장치와 인터럽트 , DNA 동작원리를 이해한다. <br>
-        &nbsp;&nbsp;3.명령어 세트, 정수연산 유니트, 부동소숫점 연산 유니트의 동작원리를 이해한다. <br>
-        &nbsp;&nbsp;4.메모리 관리 기법과 기억 장치들에 대한 구조를 이해한다.  <br>
-        &nbsp;&nbsp;5.CPU 기본구조와 구성요소들을 이해한다.<br></li>
-    </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp; 한연희</h3>
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 네트워킹 (제4판) - 하향식 접근 역자 강현국, 신용태, 안상현 (저자 JAMES F. KUROSE, KEITH W. ROSS), 홍릉과학출판사, 2007년 12월 출간</li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.컴퓨터 네트워크의 기초지식을 이해한다.   <br>
-        &nbsp;&nbsp;2.네트워크의 각 프로토콜이 실제 제품에 어떻게 활용되는지 이해한다.  <br>
-        &nbsp;&nbsp;3.각 Layer 별 프로토콜을 분석하고 각 특징을 이해한다.    <br>
-        &nbsp;&nbsp;4.각 Layer 별 응용프로토콜의 설계 내용을 이해하고 새로운 프로토콜을 설계한다. </li>
-    </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;  김용환</h3>
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 네트워킹 (제4판) - 하향식 접근 역자 강현국, 신용태, 안상현 (저자 JAMES F. KUROSE, KEITH W. ROSS), 홍릉과학출판사, 2007년 12월 출간</li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.컴퓨터 네트워크의 기초지식을 이해한다.   <br>
-        &nbsp;&nbsp;2.네트워크의 각 프로토콜이 실제 제품에 어떻게 활용되는지 이해한다.  <br>
-        &nbsp;&nbsp;3.각 Layer 별 프로토콜을 분석하고 각 특징을 이해한다.    <br>
-        &nbsp;&nbsp;4.각 Layer 별 응용프로토콜의 설계 내용을 이해하고 새로운 프로토콜을 설계한다. </li>
-    </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;  석광호</h3>
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- 컴퓨터 네트워킹 (제6판) - 하향식 접근 역자 최종원, 강형국, 신용태, 안상현, 유영환, 황호영 (저자 James F. Kurose, Keith W. Ross), PEARSON</li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.컴퓨터 네트워크의 동작 원리 이해<br>
-        &nbsp;&nbsp;2.인터넷의 발전 방향 이해<br>
-        &nbsp;&nbsp;3.TCP/IP 프로토콜의 동작 원리 이해<br></li>
-    </ul>
-   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;  민준기</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터비전및실습  &nbsp;&nbsp;&nbsp;&nbsp;  조태훈</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 알고리즘(Foundations of Algorithms by Richard Neapolitan and Kumarss Naimpipoir), 3rd edtion, 도경구 역, 사이텍미디어, 2004</li>
+        &nbsp;&nbsp;- 강의자료<br></li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.프로젝트 수행에 대한 제안과 발표 능력을 기른다.<br>
-        &nbsp;&nbsp;2. 알고리즘 설계 전략과 기법을 습득한다.<br>
-        &nbsp;&nbsp;3.알고리즘 복잡도 분석법을 습득한다. <br>
-        &nbsp;&nbsp;4.복잡도 이론과 계산 이론을 이해한다.<br></li>
+        &nbsp;&nbsp;1.기본적인 영상해석 기법을 배운다 <br>
+        &nbsp;&nbsp;2.기본적인 영상해석 기법을 C/C++로 구현한다.<br></li>
     </ul>
-       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;  한연희</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  임베디드응용및실습  &nbsp;&nbsp;&nbsp;&nbsp;  장경식</h3>
     <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 프로젝트 20 </li>
+        <li>학점 정보 : 출석 10 과제 50 중간 20 기말 20 </li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 알고리즘(Foundations of Algorithms by Richard Neapolitan and Kumarss Naimpipoir), 3rd edtion, 도경구 역, 사이텍미디어, 2004</li>
+        &nbsp;&nbsp;- 한국기술교육대학교 능력개발교육원, 임베디드시스템설계 / 박영환, 임베디드시스템+임베디드리눅스, 사이텍미디어, 2002<br></li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.프로젝트 수행에 대한 제안과 발표 능력을 기른다.<br>
-        &nbsp;&nbsp;2. 알고리즘 설계 전략과 기법을 습득한다.<br>
-        &nbsp;&nbsp;3.알고리즘 복잡도 분석법을 습득한다. <br>
-        &nbsp;&nbsp;4.복잡도 이론과 계산 이론을 이해한다.<br></li>
+        &nbsp;&nbsp;1.팀 프로젝트를 통한 구체적인 문제해결 방법을 도출한다. <br>
+        &nbsp;&nbsp;2.크로스 컴파일, 디버깅 기법을 습득한다.<br>
+        &nbsp;&nbsp;3.임베디드 시스템 개요와 설계절차등을 학습한다.<br>
+        &nbsp;&nbsp;4.부트로더, 커널, 램디스크의 역할과 동작 원리를 습득한다.<br>
     </ul>
-           <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  디지털시스템설계및실습 &nbsp;&nbsp;&nbsp;&nbsp;  이강환</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴파일러및실습 &nbsp;&nbsp;&nbsp;&nbsp;  권오영</h3>
     <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30  </li>
+        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30  </li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 디지털 시스템 설계를 위한 VHDL(자체학부교안)</li>
+        &nbsp;&nbsp;- 컴파일러:원리,기법,도구 (번역 2판, 유원희, 신승철, 우균, 하상호 옮김, 교보문고)</li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.자료를 이해하고 이론적 내용으로 분석하여 설명할 수 있다. <br>
-        &nbsp;&nbsp;2. 문제를 발견하는 방법과 체계화 시키는 능력이 있다.<br>
-        &nbsp;&nbsp;3.도구를 사용하여 주어진 문제를 해결하는 능력이 있다.<br></li>
+        &nbsp;&nbsp;1.텍스트 처리 기법 (구문 분석기)  <br>
+        &nbsp;&nbsp;2.코드 최적화 기법<br>
+        &nbsp;&nbsp;3.컴퓨터 구조와 프로그래밍 언어이론 Review <br>
+        &nbsp;&nbsp;4.컴파일러 개발의 중요한 개념 설명<br>
+        &nbsp;&nbsp;5. 중간/목적 코드 생성<br></li>
     </ul>
-           <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  디지털신호처리및실습 &nbsp;&nbsp;&nbsp;&nbsp;  조재수</h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 웹프로그래밍 &nbsp;&nbsp;&nbsp;&nbsp; 문일영</h3>
     <ul class = "toggle">
-        <li>학점 정보 : 출석20 과제 80 </li>
+        <li>학점 정보 : 출석 10 과제 10 중간 40 기말 40 </li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 관련전공서적</li>
+        &nbsp;&nbsp;- PHP 프로그래밍 입문(황재호, 한빛미디어, 2013년)</li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.팀웍능력 배양(구성원 담당 영역을 정하고 인터페이스 방법 도출) <br>
-        &nbsp;&nbsp;2.설계 주제의 요소도출 및 개념설계<br>
-        &nbsp;&nbsp;3.설계 주제의 문제해결을 위한 공학적 지식 적용 방법 습득<br>
-        &nbsp;&nbsp;4.설계 시스템 구현에 필요한 부품 조사 및 적용 방법 제시<br></li>
+        &nbsp;&nbsp;1.텀프로젝트를 통한 웹사이트 설계 및 구현<br>
+        &nbsp;&nbsp;2.웹프로그래밍의 기본 지식 습득 <br>
+        &nbsp;&nbsp;3.웹 프로그램을 통한 실무적인 웹 사이트 구축<br>
+        &nbsp;&nbsp;4.데이터베이스의 이해.</li>
     </ul>
-               <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  데이터베이스및실습 &nbsp;&nbsp;&nbsp;&nbsp;  김은경</h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 웹프로그래밍 &nbsp;&nbsp;&nbsp;&nbsp;  김찬명</h3>
     <ul class = "toggle">
-        <li>학점 정보 : 중간 15 기말 15 선행학습, 퀴즈 30 수업 10 팀프로젝트 30 </li>
+        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 데이터베이스 시스템, 이석호, 정익사, 2009</li>
+        &nbsp;&nbsp;-JavaScript: The Definitive Guide 6/E</li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.릴레이션을 정규화시킬 수 있다. <br>
-        &nbsp;&nbsp;2.데이터베이스의 기본 개념을 이해한다. <br>
-        &nbsp;&nbsp;3.관계형 데이터베이스를 설계할 수 있다.<br>
-        &nbsp;&nbsp;4.SQL을 활용해서 DB 구축이 가능하다.<br></li>
+        &nbsp;&nbsp;1.최적화에 대해 이해한다<br>
+        &nbsp;&nbsp;2.Node.js에 대해 학습한다. <br>
+        &nbsp;&nbsp;3.avascript에 대해 학습한다 <br>
+        &nbsp;&nbsp;4.CSS에 대해 학습한다.</li>
     </ul>
-               <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  데이터베이스및실습 &nbsp;&nbsp;&nbsp;&nbsp;  민준기</h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  객체지향개발론및실습 &nbsp;&nbsp;&nbsp;&nbsp;  김상진</h3>
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 5 과제 10 중간 30 기말 30 설계 25 </li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- Eric Freeman and Elisabeth Freeman, Head First Design Patterns, O' Reilly, 2004</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.팀프로젝트 수행을 통해 팀웍능력과 의사소통(보고서, PPT) 능력을 배양한다. <br>
+        &nbsp;&nbsp;2.클래스 관계도, 시퀸스 다이어그램, 데이터 흐름도, 시스템 상태도 등 각종 분석 및 설계 도식화 기법의 활용능력을 습득한다.<br>
+        &nbsp;&nbsp;3.문제를 분석하고 설계하는 능력을 배양한다.<br></li>
+         &nbsp;&nbsp;4.객체지향 설계패턴의 활용법을 습득한다.</li>
+    </ul>
+   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  정보보호개론 &nbsp;&nbsp;&nbsp;&nbsp;  김상진</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 40 기말 40  </li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 데이터베이스 시스템, 이석호, 정익사, 2009</li>
+        &nbsp;&nbsp;- 기존 암호알고리즘/암호프로토콜 교과에서 사용한 담당교수가 직접 작성한 온라인 교재 자료를 일부 활용</li>
        <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.데이터베이스의 질의 처리 학습 <br>
-        &nbsp;&nbsp;2.데이터베이스의 동작 이해<br>
-        &nbsp;&nbsp;3.데이터베이스의 기본 구조 학습<br>
-        &nbsp;&nbsp;4.데이터베이스의 기본 개념 이해<br></li>
+        &nbsp;&nbsp;1.주어진 보안 요구사항을 해결하기 위한 방법을 찾는 능력을 배양한다. <br>
+        &nbsp;&nbsp;2.주어진 보안 요구사항을 해결하기 위한 기초적인 암호프로토콜 설계 능력을 배양한다.<br>
+        &nbsp;&nbsp;3. 주어진 문제에 대한 보안요구사항을 도출하는 능력과 제한된 해결책의 안전성과 효율성을 분석하는 기초적인 능력을 배양한다.<br>
+        &nbsp;&nbsp;4.암호기술의 기본도구인 암호알고리즘을 올바르게 활용하는 능력을 배양한다.</li>
     </ul>
-               <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  데이터베이스및실습 &nbsp;&nbsp;&nbsp;&nbsp;  김홍연</h3>
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 20 중간 30 기말 40 </li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- 데이터베이스 시스템, 이석호, 정익사, 2009</li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.데이터베이스의 질의 처리 학습<br>
-        &nbsp;&nbsp;2.데이터베이스의 동작 이해<br>
-        &nbsp;&nbsp;3.데이터베이스의 기본 구조 학습<br>
-        &nbsp;&nbsp;4.데이터베이스의 기본 개념 이해<br></li>
-    </ul>
-    
+
 </div>
 
 <div id="disqus_thread"></div>
