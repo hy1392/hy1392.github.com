@@ -24,8 +24,7 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  사진촬영과감상 &nbsp;&nbsp;&nbsp;&nbsp;  인희숙 <div class="js-kit-rating"></div>
-<script src="http://js-kit.com/ratings.js"></script></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  사진촬영과감상 &nbsp;&nbsp;&nbsp;&nbsp;  인희숙 </h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 25 과제 25 중간 25 기말 25</li>
         <li>교재 정보 <br>
