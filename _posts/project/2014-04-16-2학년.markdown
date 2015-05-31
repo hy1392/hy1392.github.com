@@ -37,7 +37,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 20 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- HotShot<br>
+        &nbsp;&nbsp;- HotShot<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.공학설계프로세스를 학습하고, 설계돌구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다.  </li>
     </ul>
@@ -45,7 +45,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 20 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- HotShot<br>
+        &nbsp;&nbsp;- HotShot<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.공학설계프로세스를 학습하고, 설계돌구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다.  </li>
     </ul>
@@ -53,7 +53,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 10 중간 30 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 논리설계초(Roth Kinney)한티미디어(번역판)<br>
+        &nbsp;&nbsp;- 논리설계초(Roth Kinney)한티미디어(번역판)<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br>
         &nbsp;&nbsp;2.팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.  <br>
@@ -63,7 +63,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 디지털 논리회로(이론, 실습, 시뮬레이션, 개정판, 한빛미디어)<br>
+        &nbsp;&nbsp;- 디지털 논리회로(이론, 실습, 시뮬레이션, 개정판, 한빛미디어)<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br></li>
     </ul>
@@ -71,7 +71,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- Power C++(천인국 저, 인피니티 북스)<br>
+        &nbsp;&nbsp;- Power C++(천인국 저, 인피니티 북스)<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.프로그래밍 작성 툴 사용 능력을 강화할 수 있다.  <br>
         &nbsp;&nbsp;2.객체지향프로그래밍 개념을 이해 할 수 있다. <br>
@@ -82,7 +82,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- Power C++(천인국 저, 인피니티 북스)<br>
+        &nbsp;&nbsp;- Power C++(천인국 저, 인피니티 북스)<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.프로그래밍 작성 툴 사용 능력을 강화할 수 있다.  <br>
         &nbsp;&nbsp;2.객체지향프로그래밍 개념을 이해 할 수 있다. <br>
@@ -93,7 +93,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 25 기말 25 팀프로젝트 25</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 이기자 C++프로그래밍(인피니티북스, 조재수 저)<br>
+        &nbsp;&nbsp;- 이기자 C++프로그래밍(인피니티북스, 조재수 저)<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.프로젝트 수행 및 발표를 통한 설계 및 의사전달 능력을 배양할 수 있다.  <br>
         &nbsp;&nbsp;2.주어진 문제를 분석하여 C++ 언어로 구현함으로써 자신의 전공에 활용 능력을 배양할 수 있다. <br>
@@ -104,7 +104,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 40 기말 40</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- ARM Cortex<br>
+        &nbsp;&nbsp;- ARM Cortex<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.팀 프로젝트를 진행하여 응용 시스템 설계능력을 향상시킨다.  <br>
         &nbsp;&nbsp;2.명령어 세트, 메모리맵을 학습하고, 응용프로그램을 작성해본다. <br>
@@ -115,7 +115,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 과제 20 중간 25 기말 25 프로젝트 20 기타10</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- Java How to Program by Paul Deitel and Harvey Deitel<br>
+        &nbsp;&nbsp;- Java How to Program by Paul Deitel and Harvey Deitel<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.learn object oriented design (OOD)  <br>
         &nbsp;&nbsp;2.Learn fundamentals of JAVA programming <br>
@@ -125,7 +125,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- Data Structures in C - C언어로 쉽게 풀어쓴 자료구조 (천인국, 생능출판사)<br>
+        &nbsp;&nbsp;- Data Structures in C - C언어로 쉽게 풀어쓴 자료구조 (천인국, 생능출판사)<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.프로그래밍 환경 활용 능력을 배양할 수 있다.  <br>
         &nbsp;&nbsp;2.자료구조의 응용능력을 배양할 수 있다.  <br>
