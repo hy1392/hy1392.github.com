@@ -38,7 +38,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  주영복</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  디지털 공학 및 실습  &nbsp;&nbsp;  주영복</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -46,7 +46,7 @@ thumb: thumb02.jpg
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.  <br>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  최영규</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  최영규</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -57,7 +57,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3. C언어 활용능력을 강화할 수 있다.<br>
         &nbsp;&nbsp;4.C++ 문법을 이해하고 활용능력을 배양할 수 있다.</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  이재협</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  이재협</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25</li>
         <li>교재 정보 <br>
@@ -68,7 +68,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3. C언어 활용능력을 강화할 수 있다.<br>
         &nbsp;&nbsp;4.C++ 문법을 이해하고 활용능력을 배양할 수 있다.</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  조재수</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  C++ 프로그래밍  &nbsp;&nbsp;  조재수</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 25 기말 25 팀프로젝트 25</li>
         <li>교재 정보 <br>
@@ -79,7 +79,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.다양한 개발 도구의 사용법을 숙지할 수 있다.<br>
         &nbsp;&nbsp;4.객체지향 원리를 이해하여 효율적인 클래스 설계 능력을 배양할 수 있다.</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  마이크로프로세서 및 실습  &nbsp;&nbsp;  김상연</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  마이크로프로세서 및 실습  &nbsp;&nbsp;  김상연</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 40 기말 40</li>
         <li>교재 정보 <br>
@@ -90,7 +90,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.마이크로 프로세서 동작원리를 이해한다.<br>
         &nbsp;&nbsp;4.각종 입출력장치를 제어하는 방법을 습득한다.</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자바 프로그래밍  &nbsp;&nbsp;  무하마드</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자바 프로그래밍  &nbsp;&nbsp;  무하마드</h3>
     <ul class = "toggle">
         <li>학점 정보 : 과제 20 중간 25 기말 25 프로젝트 20 기타10</li>
         <li>교재 정보 <br>
@@ -100,7 +100,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.Learn fundamentals of JAVA programming <br>
         &nbsp;&nbsp;3.Develop software using JAVA to solve real world problems<br>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자료 구조 및 실습  &nbsp;&nbsp;  최영규</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자료 구조 및 실습  &nbsp;&nbsp;  최영규</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25</li>
         <li>교재 정보 <br>
