@@ -178,7 +178,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.알고리즘 복잡도 분석법을 습득한다. <br>
         &nbsp;&nbsp;4.복잡도 이론과 계산 이론을 이해한다.<br></li>
     </ul>
-           <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  디지털시스템설계및실습 &nbsp;&nbsp;&nbsp;&nbsp;  이강환</h3>
+           <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  디지털시스템설계및실습 &nbsp;&nbsp;&nbsp;&nbsp;  이강환 <div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30  </li>
         <li>교재 정보 <br>
