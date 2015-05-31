@@ -78,9 +78,9 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.임베디드 시스템 개요와 설계절차등을 학습한다.<br>
         &nbsp;&nbsp;4.부트로더, 커널, 램디스크의 역할과 동작 원리를 습득한다.<br>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴파일러및실습 &nbsp;&nbsp;&nbsp;&nbsp;  권오영</h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴파일러및실습  &nbsp;&nbsp;&nbsp;&nbsp;  권오영</h3>
     <ul class = "toggle">
-        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30  </li>
+        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 컴파일러:원리,기법,도구 (번역 2판, 유원희, 신승철, 우균, 하상호 옮김, 교보문고)<br></li>
        <li> 강의 정보  <br>
