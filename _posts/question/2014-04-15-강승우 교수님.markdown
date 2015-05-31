@@ -1,0 +1,33 @@
+---
+layout: question
+title:  "강승우 교수님"
+date:   2014-04-25 16:54:46
+author: Marcel Newman
+categories:
+- question
+---
+<img src="https://lh3.googleusercontent.com/Lua-n4ssRqVlJM_np6LFcNYW0xw_s1DfGoWzW5cfRQ=w200-h240-p-no">
+
+직위 : 조교수
+
+E-Mail : swkang@koreatech.ac.kr
+
+전화번호 : 041-560-1406
+
+홈페이지 : https://kangseungwoo.wordpress.com/
+
+최종학력 : KAIST 전산학과, 공학박사
+
+연구실 : 제4공학관 A309
+
+연구분야 : 
+
+	- Mobile/ubiquitous computing
+	- Mobile context sensing systems
+	- Mobile social computing applications/systems
+	- Energy efficient mobile systems
+	- Urban-scale context computing
+
+
+현장경력 : 
+ 
