@@ -34,7 +34,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.사진의 역사 바로 알기<br>
         &nbsp;&nbsp;3.사진에 대한 창의적 사고 및 촬영<br></li>
     </ul>
-</div>
+    </div>
+
 <div>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대중문화읽기 &nbsp;&nbsp;&nbsp;&nbsp;  우현주</h3>
     <ul class = "toggle">
