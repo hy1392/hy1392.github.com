@@ -8,6 +8,10 @@ categories:
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 client: Wonder Corp.
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
 website: http://blacktie.co
 ---
 ####1학년
