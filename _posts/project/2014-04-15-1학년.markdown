@@ -34,7 +34,7 @@ thumb: thumb02.jpg
         s.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
-</script></SPAN></P></DIV></body>
+</script></SPAN></P></DIV>
 </body>
 ####전공
 전공에 대한 내용입니다!
