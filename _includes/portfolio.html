@@ -1,7 +1,6 @@
 <div id="portfoliowrap">
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
-        <small> 강의 상세 내용을 확인하시려면 강의명을 클릭해 주세요.</small>
         <div class="recentitems portfolio">
             {% for project in site.categories['project'] limit:include.limit %}
                 <div class="portfolio-item graphic-design">
