@@ -20,6 +20,12 @@ $("#open_nav_link").click(function(){ <!-- open이라는 글자가 있는 div태
  
 $("#open_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬라이드 토글 효과를 줍니다. 250은 밀리초로 0.25초입니다. 수정해서 사용합니다.-->
 
+ $(".toggle").slideUp();
+$(".trigger").click(function(){
+    $(this).next(".toggle").slideToggle("slow");
+  });
+
+
  
 });
 });
@@ -40,5 +46,26 @@ $("#open_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬
 <p>교과개요 : 공학설계프로세스를 학습하고, 설계도구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다. 또한 팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.</p></li>
 
 
+
+</body>
+
+<body>
+
+<div>
+    <h3 class = "trigger">Heading 1</h3> 
+    <ul class = "toggle">
+        <li>Line One</li>
+        <li>Line Two</li>
+        <li>Line Three</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">Heading 2</h3>
+    <ul class = "toggle">
+        <li>Line One</li>
+        <li>Line Two</li>
+        <li>Line Three</li>
+    </ul>
+</div>
 
 </body>
