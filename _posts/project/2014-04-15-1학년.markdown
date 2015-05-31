@@ -8,6 +8,7 @@ categories:
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 ---
+ <small> 강의 상세 내용을 확인하시려면 강의명을 클릭해 주세요.</small>
  <h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  담당교수명</h3>
 
 
