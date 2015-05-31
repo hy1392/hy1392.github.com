@@ -257,20 +257,6 @@ thumb: thumb02.jpgo
 </div>
 
 
-<div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 기업가정신과리더쉽커뮤니케이션 &nbsp;&nbsp;&nbsp;&nbsp;  김현수</h3> 
-    <ul class = "toggle">
-        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
-        <li>교재 정보 <br>
-        &nbsp;&nbsp;- 코칭 리더십(김현수 외, 학지사, 2008)</li>
-       <li> 강의 정보  <br>
-        &nbsp;&nbsp;1.타인에 대한 칭찬인정을 잘 할 수 있다.<br>
-        &nbsp;&nbsp;2.타인에 대한 공감수용을 잘 할 수 있다.<br>
-        &nbsp;&nbsp;3.자신과 타인의 특성을 이해하고 설명할 수 있고 커뮤니케이션에 활용할 수 있다.<br>
-        &nbsp;&nbsp;4.자기주장을 잘 할 수 있다.<br> 
-        &nbsp;&nbsp;5.리더쉽의 개념과 커뮤니케이션의 속성에 대해 이해할 수 있다.</li>
-    </ul>
-</div>
 
 
 <div>
