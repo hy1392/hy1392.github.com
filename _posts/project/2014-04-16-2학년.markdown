@@ -25,7 +25,8 @@ $("#open_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬
 });
 </script>
 </head>
- 
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
 
 
 
