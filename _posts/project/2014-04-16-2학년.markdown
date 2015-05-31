@@ -38,4 +38,26 @@ $("#open_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬
 <li><p>강의 시간 : 월(A204) 06A, 06B, 07A, 07B / 수 (A204) 03A, 03B, 04A ,04B</p>
 <p>교과개요 : 공학설계프로세스를 학습하고, 설계도구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다. 또한 팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.</p></li>
 
+
+
+
+<div id="div1" class="more">Content</div>
+<a class="plus">Show More</a>
+
+<div id="div2" class="more">Content</div>
+<a class="plus">Show More</a>
+
+<div id="div3" class="more">Content</div>
+<a class="plus">Show More</a>
+(function($) { 
+ $(document).ready(function(){
+    $('div.more').hide();
+    $('a.plus').click(function(){
+       $(this).prev().slideToggle(); // if your divs are after the plus, use next() instead
+       $(this).toggleClass("minus_icon"); 
+       return false;
+    });
+ });
+})(jQuery);
+
 </body>
