@@ -115,6 +115,29 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4. To introduce the basic programming  <br>
          &nbsp;&nbsp;5. To apply C language to solve the real world problems  </li>
     </ul>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 II  &nbsp;&nbsp;&nbsp;&nbsp;  이재협</h3>
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30 </li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 쉽게 풀어쓴 C언어 Express(천인국, 생능, 2013)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.프로그래밍 하고자 하는 문제에 대하여 분석하고 계획하는 능력을 갖도록 한다.   <br>
+        &nbsp;&nbsp;2.주어진 문제에 대한 문제해결능력을 배양한다.  <br>
+        &nbsp;&nbsp;3.전체 프로그램에 대한 설계능력을 갖도록 한다.   <br>
+        &nbsp;&nbsp;4.실제 프로그래밍 능력을 갖도록 한다.  <br></li>
+    </ul>
+                 <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  창의적공학설계 &nbsp;&nbsp;&nbsp;&nbsp;  전향순</h3>
+    <ul class = "toggle">
+        <li>학점 정보 : 중간 20 기말 20 실습및과제 20 팀프로젝트 20 퀴즈 10 </li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 창의적 공학설계, 김은경, 한빛미디어, 2013</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.팀원 간의 원할한 의사소통 능력 및 토의 및 실습 결과의 정확하고 효율적인 프리젠테이션 능력을 배양한다.<br>
+        &nbsp;&nbsp;2.팀웍의 중요성을 인식하고, 팀 구성원으로서의 역할 수행 능력을 배양한다. / 창의적 사고력과 창의적 문제해결 능력을 배양한다.<br>
+        &nbsp;&nbsp;3.문제 인식 및 정의의 중요성을 인식하고, 다양한 방법으로 문제를 생성할 수 있는 능력 및 진짜 문제를 정의할 수 있는 능력을 배양한다. <br>
+        &nbsp;&nbsp;4.학에서 설계의 중요성을 이해하고 , 공학설계 및 체계적이고 창의적인 문제해결 과정과 관련한 주요 개념을 이해한다.<br></li>
+    </ul>
+    
 </div>
 
 
