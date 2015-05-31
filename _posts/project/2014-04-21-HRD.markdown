@@ -8,8 +8,304 @@ categories:
 img: portfolio_04.jpg  
 thumb: thumb02.jpgo  
 ---  
-####HRD  
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  
-  
-####HRD  
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  
+<h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  담당교수명</h3>
+
+
+<head>
+
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
+ <script type="text/javascript"> </script>
+
+</head>
+
+<body>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최현숙</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- HRD개론, 임세영(2013), 박영사</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.우리대학의 특수성과 'HRD개론' 과목의 관련성, 중요성을 설명할 수 있다.<br>
+        &nbsp;&nbsp;2.인적자원개발이 개인의 자아실현을 위한 자기계발, 기업의 경쟁력 제고 및 가치실현, 국가의 발전과 국민의 삶의 질 향상을 위한 활동이란 점을 설명할 수 있다.<br>
+        &nbsp;&nbsp;3.개인의 자기계발을 통한 자아실현과 평생학습의 당위성을 인식하고, 자신의 중장기 능력개발 비전 및 계획을 세울 수 있다.<br>
+        &nbsp;&nbsp;4.기업인적자원개발을 개인개발, 경력개발, 조직개발의 관점에서 설명할 수 있으며, 조직내 학습리더의 역할을 설명할 수 있다.<br>
+        &nbsp;&nbsp;5.국가인적자원개발의 필요성을 설명하고, 구체적인 지원정책을 열거할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최규영</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- HRD개론, 임세영(2013), 박영사</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.우리대학의 특수성과 'HRD개론' 과목의 관련성, 중요성을 설명할 수 있다.<br>
+        &nbsp;&nbsp;2.인적자원개발이 개인의 자아실현을 위한 자기계발, 기업의 경쟁력 제고 및 가치실현, 국가의 발전과 국민의 삶의 질 향상을 위한 활동이란 점을 설명할 수 있다.<br>
+        &nbsp;&nbsp;3.개인의 자기계발을 통한 자아실현과 평생학습의 당위성을 인식하고, 자신의 중장기 능력개발 비전 및 계획을 세울 수 있다.<br>
+        &nbsp;&nbsp;4.기업인적자원개발을 개인개발, 경력개발, 조직개발의 관점에서 설명할 수 있으며, 조직내 학습리더의 역할을 설명할 수 있다.<br>
+        &nbsp;&nbsp;5.국가인적자원개발의 필요성을 설명하고, 구체적인 지원정책을 열거할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김우철</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- HRD개론, 임세영(2013), 박영사</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.우리대학의 특수성과 'HRD개론' 과목의 관련성, 중요성을 설명할 수 있다.<br>
+        &nbsp;&nbsp;2.인적자원개발이 개인의 자아실현을 위한 자기계발, 기업의 경쟁력 제고 및 가치실현, 국가의 발전과 국민의 삶의 질 향상을 위한 활동이란 점을 설명할 수 있다.<br>
+        &nbsp;&nbsp;3.개인의 자기계발을 통한 자아실현과 평생학습의 당위성을 인식하고, 자신의 중장기 능력개발 비전 및 계획을 세울 수 있다.<br>
+        &nbsp;&nbsp;4.기업인적자원개발을 개인개발, 경력개발, 조직개발의 관점에서 설명할 수 있으며, 조직내 학습리더의 역할을 설명할 수 있다.<br>
+        &nbsp;&nbsp;5.국가인적자원개발의 필요성을 설명하고, 구체적인 지원정책을 열거할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  오명진</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- HRD개론, 임세영(2013), 박영사</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.우리대학의 특수성과 'HRD개론' 과목의 관련성, 중요성을 설명할 수 있다.<br>
+        &nbsp;&nbsp;2.인적자원개발이 개인의 자아실현을 위한 자기계발, 기업의 경쟁력 제고 및 가치실현, 국가의 발전과 국민의 삶의 질 향상을 위한 활동이란 점을 설명할 수 있다.<br>
+        &nbsp;&nbsp;3.개인의 자기계발을 통한 자아실현과 평생학습의 당위성을 인식하고, 자신의 중장기 능력개발 비전 및 계획을 세울 수 있다.<br>
+        &nbsp;&nbsp;4.기업인적자원개발을 개인개발, 경력개발, 조직개발의 관점에서 설명할 수 있으며, 조직내 학습리더의 역할을 설명할 수 있다.<br>
+        &nbsp;&nbsp;5.국가인적자원개발의 필요성을 설명하고, 구체적인 지원정책을 열거할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  최소형</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 15 기말 20 조별 20 중간보고서 15 기말보고서 20</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- "미래탐색과 생애설계" 수업자료 (수업 첫 시간에 배부)<br>
+        &nbsp;&nbsp;- 온라인 진로, 취업프로그램(온라인교육지원->OCW공개강좌에서 볼 수 있음)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.직업세계의 이해를 높이고, 구체적인 직업정보 탐색 방법을 안다.<br>
+        &nbsp;&nbsp;2.자신의 특성에 대한 이해를 높인다.<br>
+        &nbsp;&nbsp;3.의사결정 및 생애설계의 중요성을 이해하고 자신의 진로계획을 구체적으로 세워 실천할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  문승규</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 20 중간 20 기말 30 활동지 10 진로계발계획서 10</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 미래탐색과 생애설계 (교내제작)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.직업세계의 이해를 높이고, 구체적인 직업정보 탐색 방법을 안다.<br>
+        &nbsp;&nbsp;2.자신의 특성에 대한 이해를 높인다.<br>
+        &nbsp;&nbsp;3.의사결정 및 생애설계의 중요성을 이해하고 자신의 진로계획을 구체적으로 세워 실천할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  안후남</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 15 중간 10 기말 20 조별 15 중간보고서 15 기말보고서 15</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- "진로탐색과 설계" 수업자료  (수업 첫 시간에 배부)<br>
+        &nbsp;&nbsp;- 온라인 진로, 취업프로그램(온라인교육지원->OCW공개강좌에서 볼 수 있음)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.직업세계의 이해를 높이고, 구체적인 직업정보 탐색 방법을 안다.<br>
+        &nbsp;&nbsp;2.자신의 특성에 대한 이해를 높인다.<br>
+        &nbsp;&nbsp;3.의사결정 및 생애설계의 중요성을 이해하고 자신의 진로계획을 구체적으로 세워 실천할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  강혜영</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 15 중간 10 기말 20 조별 15 중간보고서 15 기말보고서 15</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- "진로탐색과 설계" 수업자료  (수업 첫 시간에 배부)<br>
+        &nbsp;&nbsp;- 온라인 진로, 취업프로그램(온라인교육지원->OCW공개강좌에서 볼 수 있음)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.직업세계의 이해를 높이고, 구체적인 직업정보 탐색 방법을 안다.<br>
+        &nbsp;&nbsp;2.자신의 특성에 대한 이해를 높인다.<br>
+        &nbsp;&nbsp;3.의사결정 및 생애설계의 중요성을 이해하고 자신의 진로계획을 구체적으로 세워 실천할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  이지은</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 35 기말 20 발표 20 주차과제 15</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 미래탐색과 생애설계 강의교재</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.여러가지 진로관련 심리검사를 실시함으로 자신에 대해 이해하고 합리적인 의사결정 능력을 함양한다.<br>
+        &nbsp;&nbsp;2.관심분야의 직업인을 인터뷰하여 직업에 관련된 심층적인 직업정보를 습득한다.<br>
+        &nbsp;&nbsp;3.각종 직업에 필요한 윤리를 학습한다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  한상진</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- "미래탐색과 생애설계" 수업자료 (수업 첫 시간에 배부)<br>
+        &nbsp;&nbsp;- 온라인 진로, 취업프로그램(온라인교육지원->OCW공개강좌에서 볼 수 있음)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.직업세계의 이해를 높이고, 구체적인 직업정보 탐색 방법을 안다.<br>
+        &nbsp;&nbsp;2.자신의 특성에 대한 이해를 높인다.<br>
+        &nbsp;&nbsp;3.의사결정 및 생애설계의 중요성을 이해하고 자신의 진로계획을 구체적으로 세워 실천할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;  송윤심</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 35 중간 15 기말 40</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- "미래탐색과 생애설계" 수업자료 (수업 첫 시간에 배부)<br>
+        &nbsp;&nbsp;- 온라인 진로, 취업프로그램(온라인교육지원->OCW공개강좌에서 볼 수 있음)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.직업세계의 이해를 높이고, 구체적인 직업정보 탐색 방법을 안다.<br>
+        &nbsp;&nbsp;2.자신의 특성에 대한 이해를 높인다.<br>
+        &nbsp;&nbsp;3.의사결정 및 생애설계의 중요성을 이해하고 자신의 진로계획을 구체적으로 세워 실천할 수 있다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 40 기말 50</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 콘텐츠미디어(2009), 실전e러닝지침서 e러닝지도실무</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.e러닝의 제영역 및 구성요소, 온라인 학습심리와 동기부여, 학습심리와 동기부여, 학습 요령을 설명할 수 있다.<br>
+        &nbsp;&nbsp;2.콘텐츠의 개발, e러닝운영시스템에 대한 실무기초지식을 습득한다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 40 기말 40</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 김세리, 한승연, 우영희, 박성희 역(2009) Horton의 이러닝 설계. 경기 : 아카데미프레스</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.교수과학에 근거하여 양질의 e-Learning 코스웨어를 선택한다. <br>
+        &nbsp;&nbsp;2.교수과학에 근거하여 e-Learning 코스웨어를 설계한다.<br>
+        &nbsp;&nbsp;3.e-Learning의 화면 설계 원리들을 설명한다.<br>
+        &nbsp;&nbsp;4.e-Learning의 개념과 역사적 배경을 설명한다.<br>
+        &nbsp;&nbsp;5.e-Learning 화면 설계에 활용되는 주요 이론들을 설명한다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;  배광민</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 20 중간 30 기말 40</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 윤관식(2013), 교수-학습지도안 개발을 위한 수업설계, 양서원</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.수업지도안 개발에 필요한 제반 교수이론을 학습한다.<br>
+        &nbsp;&nbsp;2.수업에 필요한 수업(강의)지도안을 개발한다.<br>
+        &nbsp;&nbsp;3.각종 교육이 이루어지는 교육 분야에서 교수자가 갖추어야 하는 교수역량과 태도 및 교수법을 갖춘다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 20 중간 30 기말 40</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 윤관식(2013), 교수-학습지도안 개발을 위한 수업설계, 양서원</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.수업지도안 개발에 필요한 제반 교수이론을 학습한다.<br>
+        &nbsp;&nbsp;2.수업에 필요한 수업(강의)지도안을 개발한다.<br>
+        &nbsp;&nbsp;3.각종 교육이 이루어지는 교육 분야에서 교수자가 갖추어야 하는 교수역량과 태도 및 교수법을 갖춘다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;  윤관식</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석10 과제 10 중간 30 기말 50</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 윤관식(2013), 교수-학습지도안 개발을 위한 수업설계, 양서원</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.수업지도안 개발에 필요한 제반 교수이론을 학습한다.<br>
+        &nbsp;&nbsp;2.수업에 필요한 수업(강의)지도안을 개발한다.<br>
+        &nbsp;&nbsp;3.각종 교육이 이루어지는 교육 분야에서 교수자가 갖추어야 하는 교수역량과 태도 및 교수법을 갖춘다.</li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 현대사회와직업윤리 &nbsp;&nbsp;&nbsp;&nbsp;  장문강</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 중간 40 기말 40</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 수업시간에 안내</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.지구화시대 한국사회의 현실을 정치, 경제, 사회 등의 시사적 논점을 중심으로 파악하고 토론한다. <br>
+        &nbsp;&nbsp;2.자신의 윤리적 견해 등을 효과적으로 전달하며 의사소통하는 능력을 배양한다.<br>
+        &nbsp;&nbsp;3.올바른 삶을 중시한 팀웍 능력을 배양한다.<br>
+        &nbsp;&nbsp;4.수강생 자신과 한국사회를 실존적, 윤리적 관점에서 고찰하며 토의하고, 직업윤리를 중심으로 현실적인 윤리적 결단에 대해 토론한다.</li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 자기주도교과학습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 40 기말 50</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 송인섭(2010) 현장적용을 위한 자기주도학습 서울:학지사</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.자기주도학습의 정의 및 역사적 변천을 설명한다.<br>
+        &nbsp;&nbsp;2.자기주도학습의 구성요인을 설명한다.<br>
+        &nbsp;&nbsp;3.자기주도학습을 통해 자신의 행동을 변화한다.<br>
+        &nbsp;&nbsp;4.자기주도학습을 이끄는 방법을 설명한다.<br> 
+        &nbsp;&nbsp;5.자기주도학습을 실천한다.</li>
+    </ul>
+</div>
+
+
+
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 장애인직업재활론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김종옥</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 강의주제별 요약자료(매 주 강의진도에 맞춰 지정된 블로그에서 공지함)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.장애인을 포함한 소수자의 권익증진을 위한 구체적인 실천<br>
+        &nbsp;&nbsp;2.장애(인)에 대한 부정확한 지식 교정, 편견 제거<br>
+        &nbsp;&nbsp;3.소수자의 인권에 관한 기본적인 접근방식 안내, 인권 감수성 함양</li>
+    </ul>
+</div>
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = '6blogdisqus';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = '6blogdisqus';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+
+<script>
+
+$(".toggle").slideUp();
+$(".trigger").click(function () {
+    $(this).next(".toggle").slideToggle("slow");
+});
+
+</script>
+</body>
