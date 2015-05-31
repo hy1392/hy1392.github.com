@@ -118,7 +118,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
        <li> 강의 정보  <br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  남윤성</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  남윤성 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 5 과제 15 중간 30 기말 30 실험 20</li>
         <li>교재 정보 <br>
