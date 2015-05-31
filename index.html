@@ -3,36 +3,14 @@ layout: index
 title: Home
 permalink: /
 ---
-<head>
-       <script language="javascript"> 
- 
-function list_link(form)
-{
-	var pw = prompt("관리자님! 비밀번호를 입력해 주세요!");
-	if(pw == 2448){
-var URL = document.form.listmenu.options[document.form.listmenu.selectedIndex].value;
-window.location.href = URL;
-}
-}
- 
-</script>
-</head>
 
 {% include portfolio.html title="강의 정보" limit=10 %}
 
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-4 col-lg-offset-1">
-            <h4>관리자 전용</h4>
-            <div class="hline"></div><br>
-               <form name="form">
-	<select name="listmenu">
-		<option value="/a.html">관리자
-	</select>
-<input type=button value="접속" onClick="javascript:list_link(this)">
-</form>
-
-            <p>aa</p>
+            <h4>More About Our Agency.</h4>
+            <p>{{ site.about }}</p>
             <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
         </div>
 
@@ -54,3 +32,10 @@ window.location.href = URL;
 
     </div><! --/row -->
 </div><! --/container -->
+
+
+
+
+
+
+
