@@ -25,8 +25,8 @@ thumb: thumb02.jpg
 </script>
 <script> 
 $(document).ready(function(){
-  $(".toggle-moreless-headerr").click(function(){
-    $(".toggle-moreless-content,.toggle-moreless-foote").slideToggle("slow");
+  $(".toggle-moreless-headerr,.toggle-moreless-content").click(function(){
+    $(".toggle-moreless-foote").slideToggle("slow");
   });
 });
 </script>
