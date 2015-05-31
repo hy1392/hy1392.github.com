@@ -25,7 +25,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>평가가 가장 좋은 강의</h4>
+            <h4>이 강의를 추천합니다!</h4>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:5 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
