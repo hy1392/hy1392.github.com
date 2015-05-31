@@ -8,8 +8,200 @@ categories:
 img: portfolio_03.jpg  
 thumb: thumb02.jpg  
 ---  
-####체육  
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  
-  
-####체육  
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.  
+<h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  담당교수명</h3>
+
+<head>
+
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
+ <script type="text/javascript"> </script>
+
+</head>
+
+<body>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스킨스쿠버  &nbsp;&nbsp;&nbsp;&nbsp;  김기운</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 아이러브 스쿠버, 김기운외, 대경북스, 2007<br>
+        &nbsp;&nbsp;- 초급자를 위한 스쿠버다이빙, 충남생체연합회, 선문대학교출판부, 2005</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.스쿠버다이빙의 기초지식을 학습한다.  <br></li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  승마  &nbsp;&nbsp;&nbsp;&nbsp;  김영환</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 아이러브 승마, 대경북스, 2010</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.고급 스포츠인 승마는 생명이 있는 말과 하나가 되어야 즐길 수 있으므로 먼저 동물을 사랑하고 이해하는 마음을 기른다.<br>
+        &nbsp;&nbsp;2.승마를 즐기기 위해서는 말의 성격과 특성을 이해하는 것이 중요하다. 이런 과정들을 학습한 후 승마를 체험함으로 지치고 피곤한 현대인의 생활에 활력소를 되찾고, 운동효과를 극대화 시킨다. </li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  테니스  &nbsp;&nbsp;&nbsp;&nbsp;  최경미</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- new 테니스 아카데미 , 성영호 , 2007</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.테니스 기초기술 스윙의 원리를 이해한다.<br>
+        &nbsp;&nbsp;2.테니스 기초기술인 스트로크의 정확성을 높인다. <br>
+        &nbsp;&nbsp;3.테니스를 통한 스포츠 정신을 키운다.</li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스쿼시  &nbsp;&nbsp;&nbsp;&nbsp;  정상옥 교수님</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 최신 스쿼시 교실(다카오키 히로오미, 국일미디어, 2005) <br>
+        &nbsp;&nbsp;- Well-Being 스쿼시(강관희외, 홍경, 2005)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.포핸드 스트록을 습득한다.<br>
+        &nbsp;&nbsp;2.앵글샷을 습득한다.<br>
+        &nbsp;&nbsp;3.서비스를 습득한다. <br>
+        &nbsp;&nbsp;4.보스트를 습득한다. <br>
+        &nbsp;&nbsp;5.백핸드 스트록을 습득한다. </li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  태권도  &nbsp;&nbsp;&nbsp;&nbsp;  김영환</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 태권도 교본, 국기원 , 2005</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.우리나라 전통무예인 태권도의 역사와 문화를 이해한다.<br>
+        &nbsp;&nbsp;2.우리 조상들의 혼이 담겨있고, 208개국 8천만명이 수련하는 세계적인 무도이며, 스포츠인 태권도를 수련하여 건강증진 뿐만 아니라, 진취적이고 창의적인 사고를 기른다.<br>
+        &nbsp;&nbsp;3.태권도 수련을 통해 백전불굴의 정신과 끈기를 체득하고 이 시대에 필요한 진취적이고 창의적인 인재를 양성한다.</li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  윈드서핑  &nbsp;&nbsp;&nbsp;&nbsp;  김영환</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 실전 윈드서핑 교실(한국레저연구회, 예문당, 2006)<br>
+        &nbsp;&nbsp;- Learn to Windsurf in a Weekend(Bill Jonce, 하서출판사, 2005)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.윈드서핑과 수상스키의 기술을 학습하고 서로 학습된 정보를 서로간에 교환하도록 한다.<br>
+        &nbsp;&nbsp;2.윈드서핑과 수상스키를 배워 생활체육의 장으로 가져갈 수 있도록 하고 이 운동을 통해 다른 삶에서도 자신감을 갖도록 한다. <br>
+        &nbsp;&nbsp;3.윈드서핑 기술을 습득하면서 서로 상대를 배려하며 직업적, 도덕적 책임을 인식하도록 한다.(역할 분담, 참여)</li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  윈드서핑  &nbsp;&nbsp;&nbsp;&nbsp;  김재우</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 실전 윈드서핑 교실(한국레저연구회, 예문당, 2006)<br>
+        &nbsp;&nbsp;- Learn to Windsurf in a Weekend(Bill Jonce, 하서출판사, 2005)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.윈드서핑과 수상스키의 기술을 학습하고 서로 학습된 정보를 서로간에 교환하도록 한다.<br>
+        &nbsp;&nbsp;2.윈드서핑과 수상스키를 배워 생활체육의 장으로 가져갈 수 있도록 하고 이 운동을 통해 다른 삶에서도 자신감을 갖도록 한다. <br>
+        &nbsp;&nbsp;3.윈드서핑 기술을 습득하면서 서로 상대를 배려하며 직업적, 도덕적 책임을 인식하도록 한다.(역할 분담, 참여)</li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스포츠댄스  &nbsp;&nbsp;&nbsp;&nbsp;  윤지은</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 이왕별(2005), 라틴댄스, 김영사</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.춤을 출 때 요구되는 협동심을 기른다.<br>
+        &nbsp;&nbsp;2.춤을 감상하는 능력을 기른다.<br>
+        &nbsp;&nbsp;3.자이브의 기본스텝을 익힌다.<br>
+        &nbsp;&nbsp;4.댄스스포츠의 종목과 특징을 이해한다.<br>
+        &nbsp;&nbsp;5.다양한 춤의 종류를 알고 경험한다.</li>
+    </ul>
+</div>
+
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  보디빌딩  &nbsp;&nbsp;&nbsp;&nbsp;  김태상</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 보디빌딩(김구외 1인, 금광, 2003)<br>
+        &nbsp;&nbsp;- 타깃 보디빌딩(이석인, 삼호미디어, 2002)<br>
+        &nbsp;&nbsp;- 몸매만들기와 보디빌딩3(이한경외, 광림북하우스, 2011)</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.헬스기구를 사용하는 법을 습득한다.<br>
+        &nbsp;&nbsp;2.신체부위별 운동법을 습득한다.<br>
+        &nbsp;&nbsp;3.기구를 통해 중량올리는 법을 습득한다.<br>
+        &nbsp;&nbsp;4.기구를 통한 다이어트법을 습득한다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  골프  &nbsp;&nbsp;&nbsp;&nbsp;  모경원</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 김창욱, 골프의기초원리, 부산외국어대학교출판부, 2014</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.그립잡는법을 습득한다.<br>
+        &nbsp;&nbsp;2.어드레스를 학습한다. <br>
+        &nbsp;&nbsp;3.테이크백을 학습한다.<br>
+        &nbsp;&nbsp;4.하프스윙을 학습한다.</li>
+    </ul>
+</div>
+<div>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스포츠마사지  &nbsp;&nbsp;&nbsp;&nbsp;  김영환</h3> 
+    <ul class = "toggle">
+        <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
+        <li>교재 정보 <br>
+        &nbsp;&nbsp;- 클리니컬 마사지(James H. Clay 영문출판사 2004)<br>
+        &nbsp;&nbsp;- 스포츠마사지 아카데미 김영빈, 손진수 대경북스 2003</li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.전분적인 지식습득과 자격증 취득을 연계한다.<br>
+        &nbsp;&nbsp;2.인체를 구성하고 있는 기관과 계통 중 골격근의 종류와 근수축의 메커니즘을 이해한다.<br>
+        &nbsp;&nbsp;3.스포츠마사지를 잘 할 수 있도록 먼저 인체의 골격근의 구조와 기능을 이해한다.</li>
+    </ul>
+</div>
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = '6blogdisqus';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = '6blogdisqus';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+
+<script>
+
+$(".toggle").slideUp();
+$(".trigger").click(function () {
+    $(this).next(".toggle").slideToggle("slow");
+});
+
+</script>
+</body>
