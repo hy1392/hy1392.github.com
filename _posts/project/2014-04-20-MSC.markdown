@@ -9,7 +9,7 @@ img: portfolio_05.jpg
 thumb: thumb02.jpg  
 ---  
  <font size="5" color="#FD8704">강의 상세 내용을 확인하시려면 강의명을 클릭해 주세요.</font>
- <h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  담당교수명</h3>
+ <h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   담당교수명</h3>
 
 
 <head>
