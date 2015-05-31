@@ -10,7 +10,7 @@ thumb: thumb02.jpg
   
 ---  
  <font size="5" color="#FD8704">강의 상세 내용을 확인하시려면 강의명을 클릭해 주세요.</font>
- <h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  담당교수명</h3>
+ <h3>학점  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  과목명 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  담당교수명</h3>
 
 
 <head>
@@ -25,7 +25,7 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  권오영</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  권오영</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -38,7 +38,7 @@ thumb: thumb02.jpg
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  서희석</h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  서희석</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -49,7 +49,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.운영체제에서 다루는 중요 이슈를 통한 문제 해결 능력 배양<br>
         &nbsp;&nbsp;4.수학적 지식을 통한 원리 이해</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  강승우</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  운영체제  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  강승우</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 35 중간 25 기말 30</li>
         <li>교재 정보 <br>
@@ -60,7 +60,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.운영체제에서 다루는 중요 이슈를 통한 문제 해결 능력 배양<br>
         &nbsp;&nbsp;4.수학적 지식을 통한 원리 이해</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  장경식</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  장경식</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -72,7 +72,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.메모리 관리 기법과 기억 장치들에 대한 구조를 이해한다.  <br>
         &nbsp;&nbsp;5.CPU 기본구조와 구성요소들을 이해한다.<br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김윤상</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김윤상</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -84,7 +84,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.메모리 관리 기법과 기억 장치들에 대한 구조를 이해한다.  <br>
         &nbsp;&nbsp;5.CPU 기본구조와 구성요소들을 이해한다.<br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원형</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터구조 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  박원형</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 40 기말 40  </li>
         <li>교재 정보 <br>
@@ -96,7 +96,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.메모리 관리 기법과 기억 장치들에 대한 구조를 이해한다.  <br>
         &nbsp;&nbsp;5.CPU 기본구조와 구성요소들을 이해한다.<br></li>
     </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한연희</h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 한연희</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
         <li>교재 정보 <br>
@@ -107,7 +107,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.각 Layer 별 프로토콜을 분석하고 각 특징을 이해한다.    <br>
         &nbsp;&nbsp;4.각 Layer 별 응용프로토콜의 설계 내용을 이해하고 새로운 프로토콜을 설계한다. </li>
     </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용환</h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김용환</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
         <li>교재 정보 <br>
@@ -118,7 +118,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.각 Layer 별 프로토콜을 분석하고 각 특징을 이해한다.    <br>
         &nbsp;&nbsp;4.각 Layer 별 응용프로토콜의 설계 내용을 이해하고 새로운 프로토콜을 설계한다. </li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  석광호</h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터네트워크 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  석광호</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35 </li>
         <li>교재 정보 <br>
@@ -128,7 +128,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.인터넷의 발전 방향 이해<br>
         &nbsp;&nbsp;3.TCP/IP 프로토콜의 동작 원리 이해<br></li>
     </ul>
-   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  민준기</h3>
+   <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  민준기</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -139,7 +139,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.알고리즘 복잡도 분석법을 습득한다. <br>
         &nbsp;&nbsp;4.복잡도 이론과 계산 이론을 이해한다.<br></li>
     </ul>
-       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한연희</h3>
+       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한연희</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 프로젝트 20 </li>
         <li>교재 정보 <br>
