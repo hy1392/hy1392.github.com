@@ -116,7 +116,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  남윤성 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
@@ -124,7 +129,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  김원년 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
@@ -132,7 +142,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  김광철 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
@@ -140,7 +155,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  이미리 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
@@ -148,7 +168,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  허수헌 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
@@ -156,7 +181,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  이성직 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
@@ -164,7 +194,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  일반물리및실험 1  &nbsp;&nbsp;&nbsp;&nbsp;  신지식 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
@@ -172,7 +207,12 @@ thumb: thumb02.jpg
         <li>교재 정보 <br>
         &nbsp;&nbsp;- 대학물리학 (8판) 김광철외 역, 북스힐, 2015<br>
         &nbsp;&nbsp;- 일반물리학 실험(김광철, 황운학 공저, 북스힐 2011)<br></li>
-       <li> 강의 정보  <br></li>
+       <li> 강의 정보  <br>
+        &nbsp;&nbsp;1.운동의 기본적인 물리법칙에 대한 이해 및 실험을 할 수 있다.<br>
+        &nbsp;&nbsp;2.열역학을 이해 및 응용할 수 있다.<br>
+        &nbsp;&nbsp;3.역학의 기본적인 물리량에 대한 개념을 이해한다.<br>
+        &nbsp;&nbsp;4.역학의 기본적인 물리량을 측정한다.<br>
+        &nbsp;&nbsp;5.선운동과 회전운동을 이해 및 응용한다.</li>
     </ul>
      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대학기초수학  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  황상민 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
