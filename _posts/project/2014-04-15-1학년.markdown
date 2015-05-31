@@ -24,7 +24,7 @@ thumb: thumb02.jpg
 
 <div>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  컴퓨터공학입문  &nbsp;&nbsp;&nbsp;&nbsp;  정구철</h3> 
-    <small> asdasdasd<small>
+    <small> asdasdasd</small>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
