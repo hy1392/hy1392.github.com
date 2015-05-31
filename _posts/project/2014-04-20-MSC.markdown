@@ -43,6 +43,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.미분 적분, 급수의 이론을 학습한다.   <br>
         &nbsp;&nbsp;2.미분 적분 급수의 기본 이론을 공학적 문제에 응용할 수 있도록 한다 <br></li>
     </ul>
+</div>
+<div>
      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;4  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미적분학 1  &nbsp;&nbsp;&nbsp;&nbsp;  허주현</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 35 기말 35</li>
