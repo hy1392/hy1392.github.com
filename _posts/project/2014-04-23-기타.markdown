@@ -34,7 +34,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.사진의 역사 바로 알기<br>
         &nbsp;&nbsp;3.사진에 대한 창의적 사고 및 촬영<br></li>
     </ul>
-
+</div>
+<div>
     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대중문화읽기 &nbsp;&nbsp;&nbsp;&nbsp;  우현주</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 20 기말 30 평소태도 10</li>
@@ -48,6 +49,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.대중문화 체험 공유 <br>
         &nbsp;&nbsp;5.대중문화 체험</li>
     </ul>
+    </div>
+    <div>
      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  대중문화읽기  &nbsp;&nbsp;&nbsp;&nbsp;  김성일</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 10 기말 40</li>
@@ -60,6 +63,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4.대중문화 체험 공유 <br>
         &nbsp;&nbsp;5.대중문화 체험</li>
     </ul>
+    </div>
+    <div>
      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  여성학  &nbsp;&nbsp;&nbsp;&nbsp;  김수영</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 5 중간 30 기말 30 조발표 20 수업참여태도 5 </li>
@@ -71,6 +76,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.여성주의 관점에서 나의 삶을 성찰해보고 계획해 볼 수 있도록 한다. <br>
         &nbsp;&nbsp;3. 성차별 이데올로기 문제와 성별분업 이데올리기 문제의 해결방안을 모색할 수 있도록 한다.</li>
     </ul>
+    <div>
+    </div>
      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  철학  &nbsp;&nbsp;&nbsp;&nbsp;  손영창</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30 </li>
@@ -81,6 +88,8 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;2.정당한 사고력 배양<br>
         &nbsp;&nbsp;3.비판적 사고력 배양<br></li>
     </ul>
+    </div>
+    <div>
  <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  문화사  &nbsp;&nbsp;&nbsp;&nbsp;  김용우</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 중간 40 기말 50</li>
