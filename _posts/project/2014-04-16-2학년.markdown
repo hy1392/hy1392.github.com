@@ -20,9 +20,6 @@ $("#open_nav_link").click(function(){ <!-- open이라는 글자가 있는 div태
  
 $("#open_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬라이드 토글 효과를 줍니다. 250은 밀리초로 0.25초입니다. 수정해서 사용합니다.-->
 
-$("#open2_nav_link").click(function(){ <!-- open이라는 글자가 있는 div태그의 id와 일치하며 이 id 안의 내용인 open을 클릭할 경우에 아래의 명령을 수행합니다.-->
- 
-$("#open2_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬라이드 토글 효과를 줍니다. 250은 밀리초로 0.25초입니다. 수정해서 사용합니다.-->
  
 });
 });
@@ -40,18 +37,5 @@ $("#open2_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 �
 
 <li><p>강의 시간 : 월(A204) 06A, 06B, 07A, 07B / 수 (A204) 03A, 03B, 04A ,04B</p>
 <p>교과개요 : 공학설계프로세스를 학습하고, 설계도구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다. 또한 팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.</p></li>
-
-
-</ul>
-
-<div id="open2_nav_link"><h3>3  &nbsp;&nbsp;  컴퓨터시스템기초설계  &nbsp;&nbsp;  강승우</h3></div>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전공필수&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★★★☆</small>
-<ul id="open2_nav" style="display:none;"> 
-
-<li><p>강의 시간 : 월(A204) 06A, 06B, 07A, 07B / 수 (A204) 03A, 03B, 04A ,04B</p>
-<p>교과개요 : 공학설계프로세스를 학습하고, 설계도구들을 소개하며 컴퓨터분야에서 일반적으로 적용되는 시스템 공학 개념들을 학습한다. 또한 팀워크, 프로젝트 관리, 그리고 윤리 등을 학습한다.</p></li>
-
-
-</ul>
 
 </body>
