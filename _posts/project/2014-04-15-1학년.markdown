@@ -71,7 +71,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;1.이론적인 소자의 특성을 실험적으로 확인한다.  <br>
         &nbsp;&nbsp;2.기본적인 전기전자 소자의 특성을 이해한다. <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  정구철</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  정구철</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25 </li>
         <li>교재 정보 <br>
@@ -82,7 +82,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.C언어의 문법을 이해하고, Visual C++ 개발 환경 사용법을 익힌다.   <br>
         &nbsp;&nbsp;4.C언어를 이용한 프로그래밍 능력을 배양한다.  <br></li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  조태훈</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  조태훈</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -93,7 +93,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.C언어의 문법을 이해하고, Visual C++ 개발 환경 사용법을 익힌다.   <br>
         &nbsp;&nbsp;4.C언어를 이용한 프로그래밍 능력을 배양한다.  <br></li>
     </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 강승우</h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 강승우</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25 </li>
         <li>교재 정보 <br>
@@ -104,7 +104,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.C언어의 문법을 이해하고, Visual C++ 개발 환경 사용법을 익힌다.   <br>
         &nbsp;&nbsp;4.C언어를 이용한 프로그래밍 능력을 배양한다.  </li>
     </ul>
-         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  무하마드</h3>
+         <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 I  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  무하마드</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 중간 25 기말 25 </li>
         <li>교재 정보 <br>
