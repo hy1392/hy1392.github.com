@@ -144,7 +144,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.마이크로 프로세서 동작원리를 이해한다.<br>
         &nbsp;&nbsp;4.각종 입출력장치를 제어하는 방법을 습득한다.<br></li>
     </ul>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자바 프로그래밍  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  무하마드  <div class="rw-ui-container"></div></h3>
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;  자바 프로그래밍  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  무하마드  &nbsp;<div class="rw-ui-container"></div></h3>
     <ul class = "toggle">
         <li>학점 정보 : 과제 20 중간 25 기말 25 프로젝트 20 기타10</li>
         <li>교재 정보 <br>
