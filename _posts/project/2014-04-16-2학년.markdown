@@ -10,7 +10,7 @@ thumb: thumb02.jpg
 ---  
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
 </script>
-
+<body>
 <script> 
 $(document).ready(function(){
   $("#flip").click(function(){
@@ -18,3 +18,4 @@ $(document).ready(function(){
   });
 });
 </script>
+</body>
