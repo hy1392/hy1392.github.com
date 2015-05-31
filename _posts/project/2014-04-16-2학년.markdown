@@ -8,14 +8,26 @@ categories:
 img: portfolio_09.jpg  
 thumb: thumb02.jpg   
 ---  
-<body>
+<div class="toggle-moreless">
+    <div class="toggle-moreless-header">
+        <h3>Hello MoreLess</h3>
+            <small>This is beta version!</small>
+    </div>
+    <div class="toggle-moreless-content">
+        <p>Hello World</p>
+        <p>Hello World</p>
+        <p>Hello World</p>
+    </div>
+    <div class="toggle-moreless-footer">
+        <p>Copyright @ Onasaju</p>
+    </div>
+</div>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
 </script>
 <script> 
 $(document).ready(function(){
-  $("#flip").click(function(){
-    $("#panel").slideToggle("slow");
+  $(".toggle-moreless-header,.toggle-moreless-footer").click(function(){
+    $(".toggle-moreless-content").slideToggle("slow");
   });
 });
 </script>
-</body>
