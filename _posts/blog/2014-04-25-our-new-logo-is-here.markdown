@@ -17,4 +17,4 @@ thumb: thumb02.jpg
 
 질문에도 친절히 답변해 주셔서 정말 좋았습니다. 실습 시간에도 도와주시려고 노력하시는 모습이 정말 좋았습니다.
 
-<p><br/><a href="/_posts/question/2014-04-15-강형주 교수님.markdown" class="btn btn-theme">강형주 교수님 정보</a></p>
+<p><br/><a href="/_posts/question/2014-04-15-강형주-교수님.markdown" class="btn btn-theme">강형주 교수님 정보</a></p>
