@@ -19,15 +19,14 @@ thumb: thumb02.jpg
         <p>Hello World</p>
     </div>
     <div class="toggle-moreless-footer">
-        <p>Copyright @ Onasaju</p>
     </div>
 </div>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
 </script>
 <script> 
 $(document).ready(function(){
-  $(".toggle-moreless-header,.toggle-moreless-footer").click(function(){
-    $(".toggle-moreless-content").slideToggle("slow");
+  $(".toggle-moreless-headerr").click(function(){
+    $(".toggle-moreless-content,.toggle-moreless-foote").slideToggle("slow");
   });
 });
 </script>
