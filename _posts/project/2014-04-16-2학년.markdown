@@ -41,26 +41,4 @@ $("#open_nav").slideToggle(250); <!--id가 open_nav인 ul태그에 대해서 슬
 
 
 
-
-<div id="div1" class="more">Content</div>
-<a class="plus">Show More</a>
-
-<div id="div2" class="more">Content</div>
-<a class="plus">Show More</a>
-
-<div id="div3" class="more">Content</div>
-<a class="plus">Show More</a>
-
-
-(function($) { 
- $(document).ready(function(){
-    $('div.more').hide();
-    $('a.plus').click(function(){
-       $(this).prev().slideToggle(); // if your divs are after the plus, use next() instead
-       $(this).toggleClass("minus_icon"); 
-       return false;
-    });
- });
-})(jQuery);
-
 </body>
