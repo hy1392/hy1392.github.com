@@ -22,7 +22,7 @@ thumb: thumb02.jpgo
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최현숙</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최현숙</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -36,7 +36,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최규영</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최규영</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -50,7 +50,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김우철</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김우철</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -64,7 +64,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  오명진</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  HRD개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  오명진</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 25 중간 30 기말 35</li>
         <li>교재 정보 <br>
@@ -78,7 +78,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최소형</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최소형</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 15 기말 20 조별 20 중간보고서 15 기말보고서 20</li>
         <li>교재 정보 <br>
@@ -91,7 +91,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  문승규</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  문승규</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 20 기말 30 활동지 10 진로계발계획서 10</li>
         <li>교재 정보 <br>
@@ -103,7 +103,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  안후남</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  안후남</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 15 중간 10 기말 20 조별 15 중간보고서 15 기말보고서 15</li>
         <li>교재 정보 <br>
@@ -116,7 +116,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  강혜영</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  강혜영</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 15 중간 10 기말 20 조별 15 중간보고서 15 기말보고서 15</li>
         <li>교재 정보 <br>
@@ -129,7 +129,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이지은</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이지은</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 35 기말 20 발표 20 주차과제 15</li>
         <li>교재 정보 <br>
@@ -141,7 +141,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한상진</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한상진</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -154,7 +154,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  송윤심</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  미래탐색과생애설계  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  송윤심</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 35 중간 15 기말 40</li>
         <li>교재 정보 <br>
@@ -167,7 +167,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 기말 50</li>
         <li>교재 정보 <br>
@@ -178,7 +178,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  e-learning개론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 40 기말 40</li>
         <li>교재 정보 <br>
@@ -192,7 +192,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  배광민</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  배광민</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 30 기말 40</li>
         <li>교재 정보 <br>
@@ -204,7 +204,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최명란</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 20 중간 30 기말 40</li>
         <li>교재 정보 <br>
@@ -216,7 +216,7 @@ thumb: thumb02.jpgo
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  윤관식</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 교수설계및교육방법 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  윤관식</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석10 과제 10 중간 30 기말 50</li>
         <li>교재 정보 <br>
@@ -229,7 +229,7 @@ thumb: thumb02.jpgo
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 현대사회와직업윤리 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  장문강</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 현대사회와직업윤리 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  장문강</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 중간 40 기말 40</li>
         <li>교재 정보 <br>
@@ -243,7 +243,7 @@ thumb: thumb02.jpgo
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 자기주도교과학습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 자기주도교과학습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김원섭</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 40 기말 50</li>
         <li>교재 정보 <br>
@@ -261,7 +261,7 @@ thumb: thumb02.jpgo
 
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 장애인직업재활론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김종옥</h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 장애인직업재활론 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김종옥</h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30</li>
         <li>교재 정보 <br>
