@@ -116,7 +116,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;4. To introduce the basic programming  <br>
          &nbsp;&nbsp;5. To apply C language to solve the real world problems  </li>
     </ul>
-      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 II  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이재협</h3>
+      <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C프로그래밍 II  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  이재협</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 30 중간 30 기말 30 </li>
         <li>교재 정보 <br>
@@ -127,7 +127,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.전체 프로그램에 대한 설계능력을 갖도록 한다.   <br>
         &nbsp;&nbsp;4.실제 프로그래밍 능력을 갖도록 한다.  <br></li>
     </ul>
-                 <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  창의적공학설계 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  전향순</h3>
+                 <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  창의적공학설계 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  전향순</h3>
     <ul class = "toggle">
         <li>학점 정보 : 중간 20 기말 20 실습및과제 20 팀프로젝트 20 퀴즈 10 </li>
         <li>교재 정보 <br>
