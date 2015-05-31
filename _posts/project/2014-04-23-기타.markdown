@@ -27,8 +27,8 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 25 과제 25 중간 25 기말 25</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- <사진학 강의> 바바라 런던, 미진사<br>
-        &nbsp;&nbsp;-<사진강의> 랭포드, 북스힐<br></li>
+        &nbsp;&nbsp;- [사진학 강의] 바바라 런던, 미진사<br>
+        &nbsp;&nbsp;-[사진강의] 랭포드, 북스힐<br></li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.카메라 구조에 대한 기초 지식 습득<br>
         &nbsp;&nbsp;2.사진의 역사 바로 알기<br>
@@ -94,7 +94,7 @@ thumb: thumb02.jpg
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 중간 40 기말 50</li>
         <li>교재 정보 <br>
-        &nbsp;&nbsp;- 주다스 코핀/로버트 스테이시, <새로운 서양 문명의 역사> 상, 하권 (소나무, 2014)</li>
+        &nbsp;&nbsp;- 주다스 코핀/로버트 스테이시, [새로운 서양 문명의 역사] 상, 하권 (소나무, 2014)</li>
        <li> 강의 정보  <br>
         &nbsp;&nbsp;1.서양사에 대한 기본적인 지식을 습득하도록 한다.<br>
         &nbsp;&nbsp;2.강의 내용을 이해하고 적극적인 참여를 유도한다. </li>
