@@ -49,7 +49,7 @@ thumb: thumb02.jpg
 <body>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스킨스쿠버  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김기운 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스킨스쿠버  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김기운 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -61,7 +61,7 @@ thumb: thumb02.jpg
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  승마  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김영환 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  승마  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  김영환 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -72,7 +72,7 @@ thumb: thumb02.jpg
     </ul>
 </div>
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  테니스  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최경미 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  테니스  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  최경미 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
@@ -85,7 +85,7 @@ thumb: thumb02.jpg
 </div>
 
 <div>
-    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스쿼시  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  정상옥 <div class="rw-ui-container"></div></h3> 
+    <h3 class = "trigger">&nbsp;&nbsp;&nbsp;1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  스쿼시  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  정상옥 <div class="rw-ui-container"></div></h3> 
     <ul class = "toggle">
         <li>학점 정보 : 출석 20 과제 20 중간 30 기말 30</li>
         <li>교재 정보 <br>
