@@ -139,7 +139,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.알고리즘 복잡도 분석법을 습득한다. <br>
         &nbsp;&nbsp;4.복잡도 이론과 계산 이론을 이해한다.<br></li>
     </ul>
-       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한연희</h3>
+       <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  알고리즘및실습 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  한연희</h3>
     <ul class = "toggle">
         <li>학점 정보 : 출석 10 과제 10 중간 30 기말 30 프로젝트 20 </li>
         <li>교재 정보 <br>
