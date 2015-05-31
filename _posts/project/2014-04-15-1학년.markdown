@@ -61,7 +61,7 @@ thumb: thumb02.jpg
         &nbsp;&nbsp;3.컴퓨터 사용에 필요한 윈도우 XP의 기능을 수행할 수 있다.<br>
         &nbsp;&nbsp;4.응용소프트웨어의 실습을 통해 실무 능력을 향상시킨다.</li>
     </ul>
-     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;  기초전기전자및실습  &nbsp;&nbsp;&nbsp;  오영준</h3>
+     <h3 class = "trigger">&nbsp;&nbsp;&nbsp;3  &nbsp;&nbsp;&nbsp;&nbsp;  기초전기전자및실습  &nbsp;&nbsp;  오영준</h3>
     <ul class = "toggle">
         <li>Line One</li>
         <li>Line Two</li>
